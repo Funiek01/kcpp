@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/depend.make
@@ -68,34 +68,34 @@ include CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/flags.make
 
-CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/flags.make
-CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/includes_CXX.rsp
-CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc
-CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj -MF CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc.obj.d -o CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc"
+CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/flags.make
+CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/includes_CXX.rsp
+CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc
+CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj -MF CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc.obj.d -o CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc"
 
-CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc" > CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc.i
+CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc" > CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc.i
 
-CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc" -o CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc.s
+CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc" -o CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\LBitoweOperatoryLogiczneSingleVariable.cc.s
 
 # Object files for target LBitoweOperatoryLogiczneSingleVariable.cc
 LBitoweOperatoryLogiczneSingleVariable_cc_OBJECTS = \
-"CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj"
+"CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj"
 
 # External object files for target LBitoweOperatoryLogiczneSingleVariable.cc
 LBitoweOperatoryLogiczneSingleVariable_cc_EXTERNAL_OBJECTS =
 
-LBitoweOperatoryLogiczneSingleVariable.cc.exe: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj
+LBitoweOperatoryLogiczneSingleVariable.cc.exe: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj
 LBitoweOperatoryLogiczneSingleVariable.cc.exe: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/build.make
 LBitoweOperatoryLogiczneSingleVariable.cc.exe: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/linkLibs.rsp
 LBitoweOperatoryLogiczneSingleVariable.cc.exe: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/objects1
 LBitoweOperatoryLogiczneSingleVariable.cc.exe: CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LBitoweOperatoryLogiczneSingleVariable.cc.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LBitoweOperatoryLogiczneSingleVariable.cc.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/clean:
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/clean
 
 CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/depend
 

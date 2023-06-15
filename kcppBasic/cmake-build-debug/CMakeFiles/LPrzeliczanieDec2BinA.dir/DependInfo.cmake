@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LPrzeliczanieDec2BinA.cc" "CMakeFiles/LPrzeliczanieDec2BinA.dir/src/LPrzeliczanieDec2BinA.cc.obj" "gcc" "CMakeFiles/LPrzeliczanieDec2BinA.dir/src/LPrzeliczanieDec2BinA.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LPrzeliczanieDec2BinA.cc" "CMakeFiles/LPrzeliczanieDec2BinA.dir/src/LPrzeliczanieDec2BinA.cc.obj" "gcc" "CMakeFiles/LPrzeliczanieDec2BinA.dir/src/LPrzeliczanieDec2BinA.cc.obj.d"
   )
 
 # Targets to which this target links.

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj"
-  "CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj.d"
+  "CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj"
+  "CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj.d"
   "ZadArytmetykaWskaznikow.cc.exe"
   "ZadArytmetykaWskaznikow.cc.exe.manifest"
   "ZadArytmetykaWskaznikow.cc.pdb"

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj"
-  "CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj.d"
+  "CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj"
+  "CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj.d"
   "LBitoweOperatoryLogiczneSingleVariable.cc.exe"
   "LBitoweOperatoryLogiczneSingleVariable.cc.exe.manifest"
   "LBitoweOperatoryLogiczneSingleVariable.cc.pdb"

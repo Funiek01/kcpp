@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LUnion.cc" "CMakeFiles/LUnion.dir/src/LUnion.cc.obj" "gcc" "CMakeFiles/LUnion.dir/src/LUnion.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LUnion.cc" "CMakeFiles/LUnion.dir/src/LUnion.cc.obj" "gcc" "CMakeFiles/LUnion.dir/src/LUnion.cc.obj.d"
   )
 
 # Targets to which this target links.

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.obj"
-  "CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.obj.d"
+  "CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.obj"
+  "CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.obj.d"
   "LManipulacjaStrumieniemCout.cc.exe"
   "LManipulacjaStrumieniemCout.cc.exe.manifest"
   "LManipulacjaStrumieniemCout.cc.pdb"

@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/depend.make
@@ -68,34 +68,34 @@ include CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/flags.make
 
-CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/flags.make
-CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/includes_CXX.rsp
-CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc
-CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj -MF CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj.d -o CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc"
+CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/flags.make
+CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/includes_CXX.rsp
+CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc
+CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj -MF CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj.d -o CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc"
 
-CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc" > CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i
+CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc" > CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i
 
-CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc" -o CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s
+CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc" -o CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s
 
 # Object files for target ZadPrzekazywanieTablicZpodaniemRozmiaru
 ZadPrzekazywanieTablicZpodaniemRozmiaru_OBJECTS = \
-"CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj"
+"CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj"
 
 # External object files for target ZadPrzekazywanieTablicZpodaniemRozmiaru
 ZadPrzekazywanieTablicZpodaniemRozmiaru_EXTERNAL_OBJECTS =
 
-ZadPrzekazywanieTablicZpodaniemRozmiaru.exe: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj
+ZadPrzekazywanieTablicZpodaniemRozmiaru.exe: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj
 ZadPrzekazywanieTablicZpodaniemRozmiaru.exe: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/build.make
 ZadPrzekazywanieTablicZpodaniemRozmiaru.exe: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/linkLibs.rsp
 ZadPrzekazywanieTablicZpodaniemRozmiaru.exe: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/objects1
 ZadPrzekazywanieTablicZpodaniemRozmiaru.exe: CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadPrzekazywanieTablicZpodaniemRozmiaru.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadPrzekazywanieTablicZpodaniemRozmiaru.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/clean:
 .PHONY : CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/clean
 
 CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/depend
 

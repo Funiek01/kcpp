@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj"
-  "CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj.d"
+  "CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj"
+  "CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj.d"
   "ZadCinCoutFile.cc.exe"
   "ZadCinCoutFile.cc.exe.manifest"
   "ZadCinCoutFile.cc.pdb"

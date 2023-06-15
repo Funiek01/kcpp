@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.obj"
-  "CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.obj.d"
+  "CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.obj"
+  "CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.obj.d"
   "ZadIq.cc.exe"
   "ZadIq.cc.exe.manifest"
   "ZadIq.cc.pdb"

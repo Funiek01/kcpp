@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ZadOperatoryPrzypisania.cc.dir/depend.make
@@ -68,34 +68,34 @@ include CMakeFiles/ZadOperatoryPrzypisania.cc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ZadOperatoryPrzypisania.cc.dir/flags.make
 
-CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/flags.make
-CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/includes_CXX.rsp
-CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc
-CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj -MF CMakeFiles\ZadOperatoryPrzypisania.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadOperatoryPrzypisania.cc.obj.d -o CMakeFiles\ZadOperatoryPrzypisania.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadOperatoryPrzypisania.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadOperatoryPrzypisania.cc"
+CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/flags.make
+CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/includes_CXX.rsp
+CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc
+CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj -MF CMakeFiles\ZadOperatoryPrzypisania.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadOperatoryPrzypisania.cc.obj.d -o CMakeFiles\ZadOperatoryPrzypisania.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadOperatoryPrzypisania.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadOperatoryPrzypisania.cc"
 
-CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadOperatoryPrzypisania.cc" > CMakeFiles\ZadOperatoryPrzypisania.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadOperatoryPrzypisania.cc.i
+CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadOperatoryPrzypisania.cc" > CMakeFiles\ZadOperatoryPrzypisania.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadOperatoryPrzypisania.cc.i
 
-CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadOperatoryPrzypisania.cc" -o CMakeFiles\ZadOperatoryPrzypisania.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadOperatoryPrzypisania.cc.s
+CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadOperatoryPrzypisania.cc" -o CMakeFiles\ZadOperatoryPrzypisania.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadOperatoryPrzypisania.cc.s
 
 # Object files for target ZadOperatoryPrzypisania.cc
 ZadOperatoryPrzypisania_cc_OBJECTS = \
-"CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj"
+"CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj"
 
 # External object files for target ZadOperatoryPrzypisania.cc
 ZadOperatoryPrzypisania_cc_EXTERNAL_OBJECTS =
 
-ZadOperatoryPrzypisania.cc.exe: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj
+ZadOperatoryPrzypisania.cc.exe: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj
 ZadOperatoryPrzypisania.cc.exe: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/build.make
 ZadOperatoryPrzypisania.cc.exe: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/linkLibs.rsp
 ZadOperatoryPrzypisania.cc.exe: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/objects1
 ZadOperatoryPrzypisania.cc.exe: CMakeFiles/ZadOperatoryPrzypisania.cc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadOperatoryPrzypisania.cc.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadOperatoryPrzypisania.cc.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ZadOperatoryPrzypisania.cc.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/ZadOperatoryPrzypisania.cc.dir/clean:
 .PHONY : CMakeFiles/ZadOperatoryPrzypisania.cc.dir/clean
 
 CMakeFiles/ZadOperatoryPrzypisania.cc.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\ZadOperatoryPrzypisania.cc.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\ZadOperatoryPrzypisania.cc.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ZadOperatoryPrzypisania.cc.dir/depend
 

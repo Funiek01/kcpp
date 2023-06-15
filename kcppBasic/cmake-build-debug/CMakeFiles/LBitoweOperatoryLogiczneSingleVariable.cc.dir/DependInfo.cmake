@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc" "CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj" "gcc" "CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc" "CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj" "gcc" "CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj.d"
   )
 
 # Targets to which this target links.

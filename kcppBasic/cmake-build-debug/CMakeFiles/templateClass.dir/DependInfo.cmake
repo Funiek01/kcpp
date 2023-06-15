@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/templateClass.cc" "CMakeFiles/templateClass.dir/src/templateClass.cc.obj" "gcc" "CMakeFiles/templateClass.dir/src/templateClass.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/templateClass.cc" "CMakeFiles/templateClass.dir/src/templateClass.cc.obj" "gcc" "CMakeFiles/templateClass.dir/src/templateClass.cc.obj.d"
   )
 
 # Targets to which this target links.

@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ZadKlasaKonstruktor.cc.dir/depend.make
@@ -68,34 +68,34 @@ include CMakeFiles/ZadKlasaKonstruktor.cc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ZadKlasaKonstruktor.cc.dir/flags.make
 
-CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj: CMakeFiles/ZadKlasaKonstruktor.cc.dir/flags.make
-CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj: CMakeFiles/ZadKlasaKonstruktor.cc.dir/includes_CXX.rsp
-CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc
-CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj: CMakeFiles/ZadKlasaKonstruktor.cc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj -MF CMakeFiles\ZadKlasaKonstruktor.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadKlasaKonstruktor.cc.obj.d -o CMakeFiles\ZadKlasaKonstruktor.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadKlasaKonstruktor.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadKlasaKonstruktor.cc"
+CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj: CMakeFiles/ZadKlasaKonstruktor.cc.dir/flags.make
+CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj: CMakeFiles/ZadKlasaKonstruktor.cc.dir/includes_CXX.rsp
+CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc
+CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj: CMakeFiles/ZadKlasaKonstruktor.cc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj -MF CMakeFiles\ZadKlasaKonstruktor.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadKlasaKonstruktor.cc.obj.d -o CMakeFiles\ZadKlasaKonstruktor.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadKlasaKonstruktor.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadKlasaKonstruktor.cc"
 
-CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadKlasaKonstruktor.cc" > CMakeFiles\ZadKlasaKonstruktor.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadKlasaKonstruktor.cc.i
+CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadKlasaKonstruktor.cc" > CMakeFiles\ZadKlasaKonstruktor.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadKlasaKonstruktor.cc.i
 
-CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadKlasaKonstruktor.cc" -o CMakeFiles\ZadKlasaKonstruktor.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadKlasaKonstruktor.cc.s
+CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadKlasaKonstruktor.cc" -o CMakeFiles\ZadKlasaKonstruktor.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadKlasaKonstruktor.cc.s
 
 # Object files for target ZadKlasaKonstruktor.cc
 ZadKlasaKonstruktor_cc_OBJECTS = \
-"CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj"
+"CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj"
 
 # External object files for target ZadKlasaKonstruktor.cc
 ZadKlasaKonstruktor_cc_EXTERNAL_OBJECTS =
 
-ZadKlasaKonstruktor.cc.exe: CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj
+ZadKlasaKonstruktor.cc.exe: CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj
 ZadKlasaKonstruktor.cc.exe: CMakeFiles/ZadKlasaKonstruktor.cc.dir/build.make
 ZadKlasaKonstruktor.cc.exe: CMakeFiles/ZadKlasaKonstruktor.cc.dir/linkLibs.rsp
 ZadKlasaKonstruktor.cc.exe: CMakeFiles/ZadKlasaKonstruktor.cc.dir/objects1
 ZadKlasaKonstruktor.cc.exe: CMakeFiles/ZadKlasaKonstruktor.cc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadKlasaKonstruktor.cc.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadKlasaKonstruktor.cc.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ZadKlasaKonstruktor.cc.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/ZadKlasaKonstruktor.cc.dir/clean:
 .PHONY : CMakeFiles/ZadKlasaKonstruktor.cc.dir/clean
 
 CMakeFiles/ZadKlasaKonstruktor.cc.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\ZadKlasaKonstruktor.cc.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\ZadKlasaKonstruktor.cc.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ZadKlasaKonstruktor.cc.dir/depend
 

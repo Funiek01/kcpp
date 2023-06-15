@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj"
-  "CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj.d"
+  "CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj"
+  "CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj.d"
   "ZadSwitch.cc.exe"
   "ZadSwitch.cc.exe.manifest"
   "ZadSwitch.cc.pdb"

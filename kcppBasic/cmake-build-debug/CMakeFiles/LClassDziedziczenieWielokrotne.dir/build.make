@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LClassDziedziczenieWielokrotne.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/LClassDziedziczenieWielokrotne.dir/flags.make
 
 CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.obj: CMakeFiles/LClassDziedziczenieWielokrotne.dir/flags.make
 CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.obj: CMakeFiles/LClassDziedziczenieWielokrotne.dir/includes_CXX.rsp
-CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppBasic/src/LClassDziedziczenieWielokrotne.cc
+CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppBasic/src/LClassDziedziczenieWielokrotne.cc
 CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.obj: CMakeFiles/LClassDziedziczenieWielokrotne.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.obj -MF CMakeFiles\LClassDziedziczenieWielokrotne.dir\src\LClassDziedziczenieWielokrotne.cc.obj.d -o CMakeFiles\LClassDziedziczenieWielokrotne.dir\src\LClassDziedziczenieWielokrotne.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassDziedziczenieWielokrotne.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.obj -MF CMakeFiles\LClassDziedziczenieWielokrotne.dir\src\LClassDziedziczenieWielokrotne.cc.obj.d -o CMakeFiles\LClassDziedziczenieWielokrotne.dir\src\LClassDziedziczenieWielokrotne.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassDziedziczenieWielokrotne.cc"
 
 CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassDziedziczenieWielokrotne.cc" > CMakeFiles\LClassDziedziczenieWielokrotne.dir\src\LClassDziedziczenieWielokrotne.cc.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassDziedziczenieWielokrotne.cc" > CMakeFiles\LClassDziedziczenieWielokrotne.dir\src\LClassDziedziczenieWielokrotne.cc.i
 
 CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LClassDziedziczenieWielokrotne.dir/src/LClassDziedziczenieWielokrotne.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassDziedziczenieWielokrotne.cc" -o CMakeFiles\LClassDziedziczenieWielokrotne.dir\src\LClassDziedziczenieWielokrotne.cc.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassDziedziczenieWielokrotne.cc" -o CMakeFiles\LClassDziedziczenieWielokrotne.dir\src\LClassDziedziczenieWielokrotne.cc.s
 
 # Object files for target LClassDziedziczenieWielokrotne
 LClassDziedziczenieWielokrotne_OBJECTS = \
@@ -95,7 +95,7 @@ LClassDziedziczenieWielokrotne.exe: CMakeFiles/LClassDziedziczenieWielokrotne.di
 LClassDziedziczenieWielokrotne.exe: CMakeFiles/LClassDziedziczenieWielokrotne.dir/linkLibs.rsp
 LClassDziedziczenieWielokrotne.exe: CMakeFiles/LClassDziedziczenieWielokrotne.dir/objects1
 LClassDziedziczenieWielokrotne.exe: CMakeFiles/LClassDziedziczenieWielokrotne.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassDziedziczenieWielokrotne.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassDziedziczenieWielokrotne.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LClassDziedziczenieWielokrotne.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/LClassDziedziczenieWielokrotne.dir/clean:
 .PHONY : CMakeFiles/LClassDziedziczenieWielokrotne.dir/clean
 
 CMakeFiles/LClassDziedziczenieWielokrotne.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\LClassDziedziczenieWielokrotne.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\LClassDziedziczenieWielokrotne.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/LClassDziedziczenieWielokrotne.dir/depend
 

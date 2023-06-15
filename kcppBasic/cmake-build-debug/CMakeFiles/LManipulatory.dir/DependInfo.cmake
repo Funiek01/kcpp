@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LManipulatory.cc" "CMakeFiles/LManipulatory.dir/src/LManipulatory.cc.obj" "gcc" "CMakeFiles/LManipulatory.dir/src/LManipulatory.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LManipulatory.cc" "CMakeFiles/LManipulatory.dir/src/LManipulatory.cc.obj" "gcc" "CMakeFiles/LManipulatory.dir/src/LManipulatory.cc.obj.d"
   )
 
 # Targets to which this target links.

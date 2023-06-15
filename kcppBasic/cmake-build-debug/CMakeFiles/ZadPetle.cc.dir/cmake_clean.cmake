@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.obj"
-  "CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.obj.d"
+  "CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.obj"
+  "CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.obj.d"
   "ZadPetle.cc.exe"
   "ZadPetle.cc.exe.manifest"
   "ZadPetle.cc.pdb"

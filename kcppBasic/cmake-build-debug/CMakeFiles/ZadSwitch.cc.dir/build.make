@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ZadSwitch.cc.dir/depend.make
@@ -68,34 +68,34 @@ include CMakeFiles/ZadSwitch.cc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ZadSwitch.cc.dir/flags.make
 
-CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj: CMakeFiles/ZadSwitch.cc.dir/flags.make
-CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj: CMakeFiles/ZadSwitch.cc.dir/includes_CXX.rsp
-CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc
-CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj: CMakeFiles/ZadSwitch.cc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj -MF CMakeFiles\ZadSwitch.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadSwitch.cc.obj.d -o CMakeFiles\ZadSwitch.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadSwitch.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadSwitch.cc"
+CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj: CMakeFiles/ZadSwitch.cc.dir/flags.make
+CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj: CMakeFiles/ZadSwitch.cc.dir/includes_CXX.rsp
+CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppZadania/ZadSwitch.cc
+CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj: CMakeFiles/ZadSwitch.cc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj -MF CMakeFiles\ZadSwitch.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadSwitch.cc.obj.d -o CMakeFiles\ZadSwitch.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadSwitch.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadSwitch.cc"
 
-CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadSwitch.cc" > CMakeFiles\ZadSwitch.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadSwitch.cc.i
+CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadSwitch.cc" > CMakeFiles\ZadSwitch.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadSwitch.cc.i
 
-CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadSwitch.cc" -o CMakeFiles\ZadSwitch.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadSwitch.cc.s
+CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadSwitch.cc" -o CMakeFiles\ZadSwitch.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadSwitch.cc.s
 
 # Object files for target ZadSwitch.cc
 ZadSwitch_cc_OBJECTS = \
-"CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj"
+"CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj"
 
 # External object files for target ZadSwitch.cc
 ZadSwitch_cc_EXTERNAL_OBJECTS =
 
-ZadSwitch.cc.exe: CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj
+ZadSwitch.cc.exe: CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj
 ZadSwitch.cc.exe: CMakeFiles/ZadSwitch.cc.dir/build.make
 ZadSwitch.cc.exe: CMakeFiles/ZadSwitch.cc.dir/linkLibs.rsp
 ZadSwitch.cc.exe: CMakeFiles/ZadSwitch.cc.dir/objects1
 ZadSwitch.cc.exe: CMakeFiles/ZadSwitch.cc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadSwitch.cc.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadSwitch.cc.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ZadSwitch.cc.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/ZadSwitch.cc.dir/clean:
 .PHONY : CMakeFiles/ZadSwitch.cc.dir/clean
 
 CMakeFiles/ZadSwitch.cc.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\ZadSwitch.cc.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\ZadSwitch.cc.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ZadSwitch.cc.dir/depend
 

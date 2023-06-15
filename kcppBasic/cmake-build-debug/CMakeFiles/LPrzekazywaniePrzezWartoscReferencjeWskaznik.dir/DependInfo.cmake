@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LPrzekazywaniePrzezWartoscReferencjeWskaznik.cc" "CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/src/LPrzekazywaniePrzezWartoscReferencjeWskaznik.cc.obj" "gcc" "CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/src/LPrzekazywaniePrzezWartoscReferencjeWskaznik.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LPrzekazywaniePrzezWartoscReferencjeWskaznik.cc" "CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/src/LPrzekazywaniePrzezWartoscReferencjeWskaznik.cc.obj" "gcc" "CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/src/LPrzekazywaniePrzezWartoscReferencjeWskaznik.cc.obj.d"
   )
 
 # Targets to which this target links.

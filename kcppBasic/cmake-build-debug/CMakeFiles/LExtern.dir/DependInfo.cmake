@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LExtern.cc" "CMakeFiles/LExtern.dir/src/LExtern.cc.obj" "gcc" "CMakeFiles/LExtern.dir/src/LExtern.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LExtern.cc" "CMakeFiles/LExtern.dir/src/LExtern.cc.obj" "gcc" "CMakeFiles/LExtern.dir/src/LExtern.cc.obj.d"
   )
 
 # Targets to which this target links.

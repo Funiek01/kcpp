@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LClassListaInicjalizacyjna.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/LClassListaInicjalizacyjna.dir/flags.make
 
 CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.obj: CMakeFiles/LClassListaInicjalizacyjna.dir/flags.make
 CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.obj: CMakeFiles/LClassListaInicjalizacyjna.dir/includes_CXX.rsp
-CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppBasic/src/LClassListaInicjalizacyjna.cc
+CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppBasic/src/LClassListaInicjalizacyjna.cc
 CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.obj: CMakeFiles/LClassListaInicjalizacyjna.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.obj -MF CMakeFiles\LClassListaInicjalizacyjna.dir\src\LClassListaInicjalizacyjna.cc.obj.d -o CMakeFiles\LClassListaInicjalizacyjna.dir\src\LClassListaInicjalizacyjna.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassListaInicjalizacyjna.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.obj -MF CMakeFiles\LClassListaInicjalizacyjna.dir\src\LClassListaInicjalizacyjna.cc.obj.d -o CMakeFiles\LClassListaInicjalizacyjna.dir\src\LClassListaInicjalizacyjna.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassListaInicjalizacyjna.cc"
 
 CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassListaInicjalizacyjna.cc" > CMakeFiles\LClassListaInicjalizacyjna.dir\src\LClassListaInicjalizacyjna.cc.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassListaInicjalizacyjna.cc" > CMakeFiles\LClassListaInicjalizacyjna.dir\src\LClassListaInicjalizacyjna.cc.i
 
 CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LClassListaInicjalizacyjna.dir/src/LClassListaInicjalizacyjna.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassListaInicjalizacyjna.cc" -o CMakeFiles\LClassListaInicjalizacyjna.dir\src\LClassListaInicjalizacyjna.cc.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassListaInicjalizacyjna.cc" -o CMakeFiles\LClassListaInicjalizacyjna.dir\src\LClassListaInicjalizacyjna.cc.s
 
 # Object files for target LClassListaInicjalizacyjna
 LClassListaInicjalizacyjna_OBJECTS = \
@@ -95,7 +95,7 @@ LClassListaInicjalizacyjna.exe: CMakeFiles/LClassListaInicjalizacyjna.dir/build.
 LClassListaInicjalizacyjna.exe: CMakeFiles/LClassListaInicjalizacyjna.dir/linkLibs.rsp
 LClassListaInicjalizacyjna.exe: CMakeFiles/LClassListaInicjalizacyjna.dir/objects1
 LClassListaInicjalizacyjna.exe: CMakeFiles/LClassListaInicjalizacyjna.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassListaInicjalizacyjna.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassListaInicjalizacyjna.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LClassListaInicjalizacyjna.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/LClassListaInicjalizacyjna.dir/clean:
 .PHONY : CMakeFiles/LClassListaInicjalizacyjna.dir/clean
 
 CMakeFiles/LClassListaInicjalizacyjna.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\LClassListaInicjalizacyjna.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\LClassListaInicjalizacyjna.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/LClassListaInicjalizacyjna.dir/depend
 

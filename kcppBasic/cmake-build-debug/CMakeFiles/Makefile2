@@ -53,10 +53,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -322,14 +322,14 @@ clean: CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/clean
 CMakeFiles/LArgumentyDomyslne.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LArgumentyDomyslne.dir\build.make CMakeFiles/LArgumentyDomyslne.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LArgumentyDomyslne.dir\build.make CMakeFiles/LArgumentyDomyslne.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LArgumentyDomyslne"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LArgumentyDomyslne"
 .PHONY : CMakeFiles/LArgumentyDomyslne.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LArgumentyDomyslne.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LArgumentyDomyslne.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LArgumentyDomyslne.dir/rule
 
 # Convenience name for target.
@@ -348,14 +348,14 @@ CMakeFiles/LArgumentyDomyslne.dir/clean:
 CMakeFiles/LArytmetykaWskaznikow.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LArytmetykaWskaznikow.dir\build.make CMakeFiles/LArytmetykaWskaznikow.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LArytmetykaWskaznikow.dir\build.make CMakeFiles/LArytmetykaWskaznikow.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=1 "Built target LArytmetykaWskaznikow"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=1 "Built target LArytmetykaWskaznikow"
 .PHONY : CMakeFiles/LArytmetykaWskaznikow.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LArytmetykaWskaznikow.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LArytmetykaWskaznikow.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LArytmetykaWskaznikow.dir/rule
 
 # Convenience name for target.
@@ -374,14 +374,14 @@ CMakeFiles/LArytmetykaWskaznikow.dir/clean:
 CMakeFiles/LArytmetykaWskaznikowTablice.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LArytmetykaWskaznikowTablice.dir\build.make CMakeFiles/LArytmetykaWskaznikowTablice.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LArytmetykaWskaznikowTablice.dir\build.make CMakeFiles/LArytmetykaWskaznikowTablice.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=2 "Built target LArytmetykaWskaznikowTablice"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=2 "Built target LArytmetykaWskaznikowTablice"
 .PHONY : CMakeFiles/LArytmetykaWskaznikowTablice.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LArytmetykaWskaznikowTablice.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LArytmetykaWskaznikowTablice.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LArytmetykaWskaznikowTablice.dir/rule
 
 # Convenience name for target.
@@ -400,14 +400,14 @@ CMakeFiles/LArytmetykaWskaznikowTablice.dir/clean:
 CMakeFiles/LArytmetykaWskaznikowZmienne.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LArytmetykaWskaznikowZmienne.dir\build.make CMakeFiles/LArytmetykaWskaznikowZmienne.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LArytmetykaWskaznikowZmienne.dir\build.make CMakeFiles/LArytmetykaWskaznikowZmienne.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=3 "Built target LArytmetykaWskaznikowZmienne"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=3 "Built target LArytmetykaWskaznikowZmienne"
 .PHONY : CMakeFiles/LArytmetykaWskaznikowZmienne.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LArytmetykaWskaznikowZmienne.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LArytmetykaWskaznikowZmienne.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LArytmetykaWskaznikowZmienne.dir/rule
 
 # Convenience name for target.
@@ -426,14 +426,14 @@ CMakeFiles/LArytmetykaWskaznikowZmienne.dir/clean:
 CMakeFiles/LBitoweOperatoryLogiczneA0.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneA0.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneA0.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneA0.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneA0.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=4 "Built target LBitoweOperatoryLogiczneA0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=4 "Built target LBitoweOperatoryLogiczneA0"
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneA0.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LBitoweOperatoryLogiczneA0.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LBitoweOperatoryLogiczneA0.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneA0.dir/rule
 
 # Convenience name for target.
@@ -452,14 +452,14 @@ CMakeFiles/LBitoweOperatoryLogiczneA0.dir/clean:
 CMakeFiles/LBitoweOperatoryLogiczneA1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneA1.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneA1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneA1.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneA1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LBitoweOperatoryLogiczneA1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LBitoweOperatoryLogiczneA1"
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneA1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LBitoweOperatoryLogiczneA1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LBitoweOperatoryLogiczneA1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneA1.dir/rule
 
 # Convenience name for target.
@@ -478,14 +478,14 @@ CMakeFiles/LBitoweOperatoryLogiczneA1.dir/clean:
 CMakeFiles/LBitoweOperatoryLogiczneB.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneB.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneB.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneB.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneB.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=5 "Built target LBitoweOperatoryLogiczneB"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=5 "Built target LBitoweOperatoryLogiczneB"
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneB.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LBitoweOperatoryLogiczneB.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LBitoweOperatoryLogiczneB.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneB.dir/rule
 
 # Convenience name for target.
@@ -504,14 +504,14 @@ CMakeFiles/LBitoweOperatoryLogiczneB.dir/clean:
 CMakeFiles/LBitoweOperatoryLogiczneC.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneC.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneC.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneC.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneC.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=6 "Built target LBitoweOperatoryLogiczneC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=6 "Built target LBitoweOperatoryLogiczneC"
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneC.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LBitoweOperatoryLogiczneC.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LBitoweOperatoryLogiczneC.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneC.dir/rule
 
 # Convenience name for target.
@@ -530,14 +530,14 @@ CMakeFiles/LBitoweOperatoryLogiczneC.dir/clean:
 CMakeFiles/LBitoweOperatoryLogiczneDefine.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneDefine.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneDefine.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneDefine.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneDefine.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=7 "Built target LBitoweOperatoryLogiczneDefine"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=7 "Built target LBitoweOperatoryLogiczneDefine"
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneDefine.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LBitoweOperatoryLogiczneDefine.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LBitoweOperatoryLogiczneDefine.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneDefine.dir/rule
 
 # Convenience name for target.
@@ -556,14 +556,14 @@ CMakeFiles/LBitoweOperatoryLogiczneDefine.dir/clean:
 CMakeFiles/LChar.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LChar.dir\build.make CMakeFiles/LChar.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LChar.dir\build.make CMakeFiles/LChar.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=9 "Built target LChar"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=9 "Built target LChar"
 .PHONY : CMakeFiles/LChar.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LChar.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LChar.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LChar.dir/rule
 
 # Convenience name for target.
@@ -582,14 +582,14 @@ CMakeFiles/LChar.dir/clean:
 CMakeFiles/LCin.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LCin.dir\build.make CMakeFiles/LCin.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LCin.dir\build.make CMakeFiles/LCin.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LCin"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LCin"
 .PHONY : CMakeFiles/LCin.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LCin.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LCin.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LCin.dir/rule
 
 # Convenience name for target.
@@ -608,14 +608,14 @@ CMakeFiles/LCin.dir/clean:
 CMakeFiles/LClass001.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClass001.dir\build.make CMakeFiles/LClass001.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClass001.dir\build.make CMakeFiles/LClass001.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=10 "Built target LClass001"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=10 "Built target LClass001"
 .PHONY : CMakeFiles/LClass001.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClass001.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClass001.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClass001.dir/rule
 
 # Convenience name for target.
@@ -634,14 +634,14 @@ CMakeFiles/LClass001.dir/clean:
 CMakeFiles/LClassDefaultKonstruktor.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDefaultKonstruktor.dir\build.make CMakeFiles/LClassDefaultKonstruktor.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDefaultKonstruktor.dir\build.make CMakeFiles/LClassDefaultKonstruktor.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=11 "Built target LClassDefaultKonstruktor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=11 "Built target LClassDefaultKonstruktor"
 .PHONY : CMakeFiles/LClassDefaultKonstruktor.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassDefaultKonstruktor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassDefaultKonstruktor.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassDefaultKonstruktor.dir/rule
 
 # Convenience name for target.
@@ -660,14 +660,14 @@ CMakeFiles/LClassDefaultKonstruktor.dir/clean:
 CMakeFiles/LClassDestruktor.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDestruktor.dir\build.make CMakeFiles/LClassDestruktor.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDestruktor.dir\build.make CMakeFiles/LClassDestruktor.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=12 "Built target LClassDestruktor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=12 "Built target LClassDestruktor"
 .PHONY : CMakeFiles/LClassDestruktor.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassDestruktor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassDestruktor.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassDestruktor.dir/rule
 
 # Convenience name for target.
@@ -686,14 +686,14 @@ CMakeFiles/LClassDestruktor.dir/clean:
 CMakeFiles/LClassDziedziczenieA.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieA.dir\build.make CMakeFiles/LClassDziedziczenieA.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieA.dir\build.make CMakeFiles/LClassDziedziczenieA.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=13 "Built target LClassDziedziczenieA"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=13 "Built target LClassDziedziczenieA"
 .PHONY : CMakeFiles/LClassDziedziczenieA.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassDziedziczenieA.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassDziedziczenieA.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassDziedziczenieA.dir/rule
 
 # Convenience name for target.
@@ -712,14 +712,14 @@ CMakeFiles/LClassDziedziczenieA.dir/clean:
 CMakeFiles/LClassDziedziczenieKonflikt.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieKonflikt.dir\build.make CMakeFiles/LClassDziedziczenieKonflikt.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieKonflikt.dir\build.make CMakeFiles/LClassDziedziczenieKonflikt.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LClassDziedziczenieKonflikt"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LClassDziedziczenieKonflikt"
 .PHONY : CMakeFiles/LClassDziedziczenieKonflikt.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassDziedziczenieKonflikt.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassDziedziczenieKonflikt.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassDziedziczenieKonflikt.dir/rule
 
 # Convenience name for target.
@@ -738,14 +738,14 @@ CMakeFiles/LClassDziedziczenieKonflikt.dir/clean:
 CMakeFiles/LClassDziedziczenieRefWsk.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieRefWsk.dir\build.make CMakeFiles/LClassDziedziczenieRefWsk.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieRefWsk.dir\build.make CMakeFiles/LClassDziedziczenieRefWsk.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=14 "Built target LClassDziedziczenieRefWsk"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=14 "Built target LClassDziedziczenieRefWsk"
 .PHONY : CMakeFiles/LClassDziedziczenieRefWsk.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassDziedziczenieRefWsk.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassDziedziczenieRefWsk.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassDziedziczenieRefWsk.dir/rule
 
 # Convenience name for target.
@@ -764,14 +764,14 @@ CMakeFiles/LClassDziedziczenieRefWsk.dir/clean:
 CMakeFiles/LClassDziedziczenieWielokrotne.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieWielokrotne.dir\build.make CMakeFiles/LClassDziedziczenieWielokrotne.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieWielokrotne.dir\build.make CMakeFiles/LClassDziedziczenieWielokrotne.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=15 "Built target LClassDziedziczenieWielokrotne"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=15 "Built target LClassDziedziczenieWielokrotne"
 .PHONY : CMakeFiles/LClassDziedziczenieWielokrotne.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassDziedziczenieWielokrotne.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassDziedziczenieWielokrotne.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassDziedziczenieWielokrotne.dir/rule
 
 # Convenience name for target.
@@ -790,14 +790,14 @@ CMakeFiles/LClassDziedziczenieWielokrotne.dir/clean:
 CMakeFiles/LClassDziedziczenieWybiorcze.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieWybiorcze.dir\build.make CMakeFiles/LClassDziedziczenieWybiorcze.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassDziedziczenieWybiorcze.dir\build.make CMakeFiles/LClassDziedziczenieWybiorcze.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=16 "Built target LClassDziedziczenieWybiorcze"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=16 "Built target LClassDziedziczenieWybiorcze"
 .PHONY : CMakeFiles/LClassDziedziczenieWybiorcze.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassDziedziczenieWybiorcze.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassDziedziczenieWybiorcze.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassDziedziczenieWybiorcze.dir/rule
 
 # Convenience name for target.
@@ -816,14 +816,14 @@ CMakeFiles/LClassDziedziczenieWybiorcze.dir/clean:
 CMakeFiles/LClassExample.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassExample.dir\build.make CMakeFiles/LClassExample.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassExample.dir\build.make CMakeFiles/LClassExample.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=17 "Built target LClassExample"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=17 "Built target LClassExample"
 .PHONY : CMakeFiles/LClassExample.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassExample.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassExample.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassExample.dir/rule
 
 # Convenience name for target.
@@ -842,14 +842,14 @@ CMakeFiles/LClassExample.dir/clean:
 CMakeFiles/LClassFunkcjeZaprzyjaznione.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassFunkcjeZaprzyjaznione.dir\build.make CMakeFiles/LClassFunkcjeZaprzyjaznione.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassFunkcjeZaprzyjaznione.dir\build.make CMakeFiles/LClassFunkcjeZaprzyjaznione.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=18 "Built target LClassFunkcjeZaprzyjaznione"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=18 "Built target LClassFunkcjeZaprzyjaznione"
 .PHONY : CMakeFiles/LClassFunkcjeZaprzyjaznione.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassFunkcjeZaprzyjaznione.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassFunkcjeZaprzyjaznione.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassFunkcjeZaprzyjaznione.dir/rule
 
 # Convenience name for target.
@@ -868,14 +868,14 @@ CMakeFiles/LClassFunkcjeZaprzyjaznione.dir/clean:
 CMakeFiles/LClassKlasyZaprzyjaznione.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassKlasyZaprzyjaznione.dir\build.make CMakeFiles/LClassKlasyZaprzyjaznione.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassKlasyZaprzyjaznione.dir\build.make CMakeFiles/LClassKlasyZaprzyjaznione.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LClassKlasyZaprzyjaznione"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LClassKlasyZaprzyjaznione"
 .PHONY : CMakeFiles/LClassKlasyZaprzyjaznione.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassKlasyZaprzyjaznione.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassKlasyZaprzyjaznione.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassKlasyZaprzyjaznione.dir/rule
 
 # Convenience name for target.
@@ -894,14 +894,14 @@ CMakeFiles/LClassKlasyZaprzyjaznione.dir/clean:
 CMakeFiles/LClassKonstruktor.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassKonstruktor.dir\build.make CMakeFiles/LClassKonstruktor.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassKonstruktor.dir\build.make CMakeFiles/LClassKonstruktor.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=19 "Built target LClassKonstruktor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=19 "Built target LClassKonstruktor"
 .PHONY : CMakeFiles/LClassKonstruktor.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassKonstruktor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassKonstruktor.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassKonstruktor.dir/rule
 
 # Convenience name for target.
@@ -920,14 +920,14 @@ CMakeFiles/LClassKonstruktor.dir/clean:
 CMakeFiles/LClassKonstruktorKopiujacy.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassKonstruktorKopiujacy.dir\build.make CMakeFiles/LClassKonstruktorKopiujacy.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassKonstruktorKopiujacy.dir\build.make CMakeFiles/LClassKonstruktorKopiujacy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=20 "Built target LClassKonstruktorKopiujacy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=20 "Built target LClassKonstruktorKopiujacy"
 .PHONY : CMakeFiles/LClassKonstruktorKopiujacy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassKonstruktorKopiujacy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassKonstruktorKopiujacy.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassKonstruktorKopiujacy.dir/rule
 
 # Convenience name for target.
@@ -946,14 +946,14 @@ CMakeFiles/LClassKonstruktorKopiujacy.dir/clean:
 CMakeFiles/LClassListaInicjalizacyjna.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassListaInicjalizacyjna.dir\build.make CMakeFiles/LClassListaInicjalizacyjna.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassListaInicjalizacyjna.dir\build.make CMakeFiles/LClassListaInicjalizacyjna.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=21 "Built target LClassListaInicjalizacyjna"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=21 "Built target LClassListaInicjalizacyjna"
 .PHONY : CMakeFiles/LClassListaInicjalizacyjna.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassListaInicjalizacyjna.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassListaInicjalizacyjna.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassListaInicjalizacyjna.dir/rule
 
 # Convenience name for target.
@@ -972,14 +972,14 @@ CMakeFiles/LClassListaInicjalizacyjna.dir/clean:
 CMakeFiles/LClassMetodyAbstrakcyjne.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassMetodyAbstrakcyjne.dir\build.make CMakeFiles/LClassMetodyAbstrakcyjne.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassMetodyAbstrakcyjne.dir\build.make CMakeFiles/LClassMetodyAbstrakcyjne.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=22 "Built target LClassMetodyAbstrakcyjne"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=22 "Built target LClassMetodyAbstrakcyjne"
 .PHONY : CMakeFiles/LClassMetodyAbstrakcyjne.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassMetodyAbstrakcyjne.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassMetodyAbstrakcyjne.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassMetodyAbstrakcyjne.dir/rule
 
 # Convenience name for target.
@@ -998,14 +998,14 @@ CMakeFiles/LClassMetodyAbstrakcyjne.dir/clean:
 CMakeFiles/LClassSkladoweKlasy.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassSkladoweKlasy.dir\build.make CMakeFiles/LClassSkladoweKlasy.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassSkladoweKlasy.dir\build.make CMakeFiles/LClassSkladoweKlasy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LClassSkladoweKlasy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LClassSkladoweKlasy"
 .PHONY : CMakeFiles/LClassSkladoweKlasy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassSkladoweKlasy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassSkladoweKlasy.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassSkladoweKlasy.dir/rule
 
 # Convenience name for target.
@@ -1024,14 +1024,14 @@ CMakeFiles/LClassSkladoweKlasy.dir/clean:
 CMakeFiles/LClassSkladoweStatyczne.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassSkladoweStatyczne.dir\build.make CMakeFiles/LClassSkladoweStatyczne.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassSkladoweStatyczne.dir\build.make CMakeFiles/LClassSkladoweStatyczne.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=23 "Built target LClassSkladoweStatyczne"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=23 "Built target LClassSkladoweStatyczne"
 .PHONY : CMakeFiles/LClassSkladoweStatyczne.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassSkladoweStatyczne.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassSkladoweStatyczne.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassSkladoweStatyczne.dir/rule
 
 # Convenience name for target.
@@ -1050,14 +1050,14 @@ CMakeFiles/LClassSkladoweStatyczne.dir/clean:
 CMakeFiles/LClassThis001.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassThis001.dir\build.make CMakeFiles/LClassThis001.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassThis001.dir\build.make CMakeFiles/LClassThis001.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=24 "Built target LClassThis001"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=24 "Built target LClassThis001"
 .PHONY : CMakeFiles/LClassThis001.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassThis001.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassThis001.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassThis001.dir/rule
 
 # Convenience name for target.
@@ -1076,14 +1076,14 @@ CMakeFiles/LClassThis001.dir/clean:
 CMakeFiles/LClassThis002.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassThis002.dir\build.make CMakeFiles/LClassThis002.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassThis002.dir\build.make CMakeFiles/LClassThis002.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=25 "Built target LClassThis002"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=25 "Built target LClassThis002"
 .PHONY : CMakeFiles/LClassThis002.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassThis002.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassThis002.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassThis002.dir/rule
 
 # Convenience name for target.
@@ -1102,14 +1102,14 @@ CMakeFiles/LClassThis002.dir/clean:
 CMakeFiles/LClassVirtualA.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassVirtualA.dir\build.make CMakeFiles/LClassVirtualA.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassVirtualA.dir\build.make CMakeFiles/LClassVirtualA.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=26 "Built target LClassVirtualA"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=26 "Built target LClassVirtualA"
 .PHONY : CMakeFiles/LClassVirtualA.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassVirtualA.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassVirtualA.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassVirtualA.dir/rule
 
 # Convenience name for target.
@@ -1128,14 +1128,14 @@ CMakeFiles/LClassVirtualA.dir/clean:
 CMakeFiles/LClassVirtualB.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassVirtualB.dir\build.make CMakeFiles/LClassVirtualB.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassVirtualB.dir\build.make CMakeFiles/LClassVirtualB.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=27 "Built target LClassVirtualB"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=27 "Built target LClassVirtualB"
 .PHONY : CMakeFiles/LClassVirtualB.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassVirtualB.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassVirtualB.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassVirtualB.dir/rule
 
 # Convenience name for target.
@@ -1154,14 +1154,14 @@ CMakeFiles/LClassVirtualB.dir/clean:
 CMakeFiles/LClassVirtualDestructor.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassVirtualDestructor.dir\build.make CMakeFiles/LClassVirtualDestructor.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassVirtualDestructor.dir\build.make CMakeFiles/LClassVirtualDestructor.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LClassVirtualDestructor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LClassVirtualDestructor"
 .PHONY : CMakeFiles/LClassVirtualDestructor.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassVirtualDestructor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassVirtualDestructor.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassVirtualDestructor.dir/rule
 
 # Convenience name for target.
@@ -1180,14 +1180,14 @@ CMakeFiles/LClassVirtualDestructor.dir/clean:
 CMakeFiles/LClassZagniezdzanie.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassZagniezdzanie.dir\build.make CMakeFiles/LClassZagniezdzanie.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LClassZagniezdzanie.dir\build.make CMakeFiles/LClassZagniezdzanie.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=28 "Built target LClassZagniezdzanie"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=28 "Built target LClassZagniezdzanie"
 .PHONY : CMakeFiles/LClassZagniezdzanie.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LClassZagniezdzanie.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LClassZagniezdzanie.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LClassZagniezdzanie.dir/rule
 
 # Convenience name for target.
@@ -1206,14 +1206,14 @@ CMakeFiles/LClassZagniezdzanie.dir/clean:
 CMakeFiles/LConversion.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LConversion.dir\build.make CMakeFiles/LConversion.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LConversion.dir\build.make CMakeFiles/LConversion.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=29 "Built target LConversion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=29 "Built target LConversion"
 .PHONY : CMakeFiles/LConversion.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LConversion.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LConversion.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LConversion.dir/rule
 
 # Convenience name for target.
@@ -1232,14 +1232,14 @@ CMakeFiles/LConversion.dir/clean:
 CMakeFiles/LCoutArray.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LCoutArray.dir\build.make CMakeFiles/LCoutArray.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LCoutArray.dir\build.make CMakeFiles/LCoutArray.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=30 "Built target LCoutArray"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=30 "Built target LCoutArray"
 .PHONY : CMakeFiles/LCoutArray.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LCoutArray.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LCoutArray.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LCoutArray.dir/rule
 
 # Convenience name for target.
@@ -1258,14 +1258,14 @@ CMakeFiles/LCoutArray.dir/clean:
 CMakeFiles/LDifferenceGPPandGCC.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDifferenceGPPandGCC.dir\build.make CMakeFiles/LDifferenceGPPandGCC.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDifferenceGPPandGCC.dir\build.make CMakeFiles/LDifferenceGPPandGCC.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=31 "Built target LDifferenceGPPandGCC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=31 "Built target LDifferenceGPPandGCC"
 .PHONY : CMakeFiles/LDifferenceGPPandGCC.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LDifferenceGPPandGCC.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LDifferenceGPPandGCC.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LDifferenceGPPandGCC.dir/rule
 
 # Convenience name for target.
@@ -1284,14 +1284,14 @@ CMakeFiles/LDifferenceGPPandGCC.dir/clean:
 CMakeFiles/LDifferenceGPPandGCCb.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDifferenceGPPandGCCb.dir\build.make CMakeFiles/LDifferenceGPPandGCCb.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDifferenceGPPandGCCb.dir\build.make CMakeFiles/LDifferenceGPPandGCCb.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LDifferenceGPPandGCCb"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LDifferenceGPPandGCCb"
 .PHONY : CMakeFiles/LDifferenceGPPandGCCb.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LDifferenceGPPandGCCb.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LDifferenceGPPandGCCb.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LDifferenceGPPandGCCb.dir/rule
 
 # Convenience name for target.
@@ -1310,14 +1310,14 @@ CMakeFiles/LDifferenceGPPandGCCb.dir/clean:
 CMakeFiles/LDynamicCast.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDynamicCast.dir\build.make CMakeFiles/LDynamicCast.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDynamicCast.dir\build.make CMakeFiles/LDynamicCast.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=32 "Built target LDynamicCast"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=32 "Built target LDynamicCast"
 .PHONY : CMakeFiles/LDynamicCast.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LDynamicCast.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LDynamicCast.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LDynamicCast.dir/rule
 
 # Convenience name for target.
@@ -1336,14 +1336,14 @@ CMakeFiles/LDynamicCast.dir/clean:
 CMakeFiles/LDyrektywaIfdef.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDyrektywaIfdef.dir\build.make CMakeFiles/LDyrektywaIfdef.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDyrektywaIfdef.dir\build.make CMakeFiles/LDyrektywaIfdef.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=33 "Built target LDyrektywaIfdef"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=33 "Built target LDyrektywaIfdef"
 .PHONY : CMakeFiles/LDyrektywaIfdef.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LDyrektywaIfdef.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LDyrektywaIfdef.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LDyrektywaIfdef.dir/rule
 
 # Convenience name for target.
@@ -1362,14 +1362,14 @@ CMakeFiles/LDyrektywaIfdef.dir/clean:
 CMakeFiles/LDyrektywaInclude.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDyrektywaInclude.dir\build.make CMakeFiles/LDyrektywaInclude.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDyrektywaInclude.dir\build.make CMakeFiles/LDyrektywaInclude.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=34 "Built target LDyrektywaInclude"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=34 "Built target LDyrektywaInclude"
 .PHONY : CMakeFiles/LDyrektywaInclude.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LDyrektywaInclude.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LDyrektywaInclude.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LDyrektywaInclude.dir/rule
 
 # Convenience name for target.
@@ -1388,14 +1388,14 @@ CMakeFiles/LDyrektywaInclude.dir/clean:
 CMakeFiles/LDyrektywaNoIfdef.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDyrektywaNoIfdef.dir\build.make CMakeFiles/LDyrektywaNoIfdef.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDyrektywaNoIfdef.dir\build.make CMakeFiles/LDyrektywaNoIfdef.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=35 "Built target LDyrektywaNoIfdef"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=35 "Built target LDyrektywaNoIfdef"
 .PHONY : CMakeFiles/LDyrektywaNoIfdef.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LDyrektywaNoIfdef.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LDyrektywaNoIfdef.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LDyrektywaNoIfdef.dir/rule
 
 # Convenience name for target.
@@ -1414,14 +1414,14 @@ CMakeFiles/LDyrektywaNoIfdef.dir/clean:
 CMakeFiles/LDyrektywaPredefined.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDyrektywaPredefined.dir\build.make CMakeFiles/LDyrektywaPredefined.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LDyrektywaPredefined.dir\build.make CMakeFiles/LDyrektywaPredefined.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=36 "Built target LDyrektywaPredefined"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=36 "Built target LDyrektywaPredefined"
 .PHONY : CMakeFiles/LDyrektywaPredefined.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LDyrektywaPredefined.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LDyrektywaPredefined.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LDyrektywaPredefined.dir/rule
 
 # Convenience name for target.
@@ -1440,14 +1440,14 @@ CMakeFiles/LDyrektywaPredefined.dir/clean:
 CMakeFiles/LExtern.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LExtern.dir\build.make CMakeFiles/LExtern.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LExtern.dir\build.make CMakeFiles/LExtern.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LExtern"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LExtern"
 .PHONY : CMakeFiles/LExtern.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LExtern.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LExtern.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LExtern.dir/rule
 
 # Convenience name for target.
@@ -1466,14 +1466,14 @@ CMakeFiles/LExtern.dir/clean:
 CMakeFiles/LFun.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFun.dir\build.make CMakeFiles/LFun.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFun.dir\build.make CMakeFiles/LFun.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=37 "Built target LFun"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=37 "Built target LFun"
 .PHONY : CMakeFiles/LFun.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LFun.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LFun.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LFun.dir/rule
 
 # Convenience name for target.
@@ -1492,14 +1492,14 @@ CMakeFiles/LFun.dir/clean:
 CMakeFiles/LFunctionOverloading1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunctionOverloading1.dir\build.make CMakeFiles/LFunctionOverloading1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunctionOverloading1.dir\build.make CMakeFiles/LFunctionOverloading1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=38 "Built target LFunctionOverloading1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=38 "Built target LFunctionOverloading1"
 .PHONY : CMakeFiles/LFunctionOverloading1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LFunctionOverloading1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LFunctionOverloading1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LFunctionOverloading1.dir/rule
 
 # Convenience name for target.
@@ -1518,14 +1518,14 @@ CMakeFiles/LFunctionOverloading1.dir/clean:
 CMakeFiles/LFunctionOverloading2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunctionOverloading2.dir\build.make CMakeFiles/LFunctionOverloading2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunctionOverloading2.dir\build.make CMakeFiles/LFunctionOverloading2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=39 "Built target LFunctionOverloading2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=39 "Built target LFunctionOverloading2"
 .PHONY : CMakeFiles/LFunctionOverloading2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LFunctionOverloading2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LFunctionOverloading2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LFunctionOverloading2.dir/rule
 
 # Convenience name for target.
@@ -1544,14 +1544,14 @@ CMakeFiles/LFunctionOverloading2.dir/clean:
 CMakeFiles/LFunkcjaMain.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunkcjaMain.dir\build.make CMakeFiles/LFunkcjaMain.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunkcjaMain.dir\build.make CMakeFiles/LFunkcjaMain.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=40 "Built target LFunkcjaMain"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=40 "Built target LFunkcjaMain"
 .PHONY : CMakeFiles/LFunkcjaMain.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LFunkcjaMain.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LFunkcjaMain.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LFunkcjaMain.dir/rule
 
 # Convenience name for target.
@@ -1570,14 +1570,14 @@ CMakeFiles/LFunkcjaMain.dir/clean:
 CMakeFiles/LFunkcjaMainEnvp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunkcjaMainEnvp.dir\build.make CMakeFiles/LFunkcjaMainEnvp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunkcjaMainEnvp.dir\build.make CMakeFiles/LFunkcjaMainEnvp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LFunkcjaMainEnvp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LFunkcjaMainEnvp"
 .PHONY : CMakeFiles/LFunkcjaMainEnvp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LFunkcjaMainEnvp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LFunkcjaMainEnvp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LFunkcjaMainEnvp.dir/rule
 
 # Convenience name for target.
@@ -1596,14 +1596,14 @@ CMakeFiles/LFunkcjaMainEnvp.dir/clean:
 CMakeFiles/LFunkcjaVoid.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunkcjaVoid.dir\build.make CMakeFiles/LFunkcjaVoid.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LFunkcjaVoid.dir\build.make CMakeFiles/LFunkcjaVoid.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=41 "Built target LFunkcjaVoid"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=41 "Built target LFunkcjaVoid"
 .PHONY : CMakeFiles/LFunkcjaVoid.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LFunkcjaVoid.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LFunkcjaVoid.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LFunkcjaVoid.dir/rule
 
 # Convenience name for target.
@@ -1622,14 +1622,14 @@ CMakeFiles/LFunkcjaVoid.dir/clean:
 CMakeFiles/LInstrukcjaDoWhile.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaDoWhile.dir\build.make CMakeFiles/LInstrukcjaDoWhile.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaDoWhile.dir\build.make CMakeFiles/LInstrukcjaDoWhile.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=42 "Built target LInstrukcjaDoWhile"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=42 "Built target LInstrukcjaDoWhile"
 .PHONY : CMakeFiles/LInstrukcjaDoWhile.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LInstrukcjaDoWhile.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LInstrukcjaDoWhile.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LInstrukcjaDoWhile.dir/rule
 
 # Convenience name for target.
@@ -1648,14 +1648,14 @@ CMakeFiles/LInstrukcjaDoWhile.dir/clean:
 CMakeFiles/LInstrukcjaGoto.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaGoto.dir\build.make CMakeFiles/LInstrukcjaGoto.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaGoto.dir\build.make CMakeFiles/LInstrukcjaGoto.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=43 "Built target LInstrukcjaGoto"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=43 "Built target LInstrukcjaGoto"
 .PHONY : CMakeFiles/LInstrukcjaGoto.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LInstrukcjaGoto.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LInstrukcjaGoto.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LInstrukcjaGoto.dir/rule
 
 # Convenience name for target.
@@ -1674,14 +1674,14 @@ CMakeFiles/LInstrukcjaGoto.dir/clean:
 CMakeFiles/LInstrukcjaGotoZastepstwo.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaGotoZastepstwo.dir\build.make CMakeFiles/LInstrukcjaGotoZastepstwo.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaGotoZastepstwo.dir\build.make CMakeFiles/LInstrukcjaGotoZastepstwo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=44 "Built target LInstrukcjaGotoZastepstwo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=44 "Built target LInstrukcjaGotoZastepstwo"
 .PHONY : CMakeFiles/LInstrukcjaGotoZastepstwo.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LInstrukcjaGotoZastepstwo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LInstrukcjaGotoZastepstwo.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LInstrukcjaGotoZastepstwo.dir/rule
 
 # Convenience name for target.
@@ -1700,14 +1700,14 @@ CMakeFiles/LInstrukcjaGotoZastepstwo.dir/clean:
 CMakeFiles/LInstrukcjaIf.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaIf.dir\build.make CMakeFiles/LInstrukcjaIf.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaIf.dir\build.make CMakeFiles/LInstrukcjaIf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=45 "Built target LInstrukcjaIf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=45 "Built target LInstrukcjaIf"
 .PHONY : CMakeFiles/LInstrukcjaIf.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LInstrukcjaIf.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LInstrukcjaIf.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LInstrukcjaIf.dir/rule
 
 # Convenience name for target.
@@ -1726,14 +1726,14 @@ CMakeFiles/LInstrukcjaIf.dir/clean:
 CMakeFiles/LInstrukcjaSwitch.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaSwitch.dir\build.make CMakeFiles/LInstrukcjaSwitch.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaSwitch.dir\build.make CMakeFiles/LInstrukcjaSwitch.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LInstrukcjaSwitch"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LInstrukcjaSwitch"
 .PHONY : CMakeFiles/LInstrukcjaSwitch.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LInstrukcjaSwitch.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LInstrukcjaSwitch.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LInstrukcjaSwitch.dir/rule
 
 # Convenience name for target.
@@ -1752,14 +1752,14 @@ CMakeFiles/LInstrukcjaSwitch.dir/clean:
 CMakeFiles/LInstrukcjaSwitch_char_A.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaSwitch_char_A.dir\build.make CMakeFiles/LInstrukcjaSwitch_char_A.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaSwitch_char_A.dir\build.make CMakeFiles/LInstrukcjaSwitch_char_A.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=46 "Built target LInstrukcjaSwitch_char_A"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=46 "Built target LInstrukcjaSwitch_char_A"
 .PHONY : CMakeFiles/LInstrukcjaSwitch_char_A.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LInstrukcjaSwitch_char_A.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LInstrukcjaSwitch_char_A.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LInstrukcjaSwitch_char_A.dir/rule
 
 # Convenience name for target.
@@ -1778,14 +1778,14 @@ CMakeFiles/LInstrukcjaSwitch_char_A.dir/clean:
 CMakeFiles/LInstrukcjaSwitch_char_B.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaSwitch_char_B.dir\build.make CMakeFiles/LInstrukcjaSwitch_char_B.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaSwitch_char_B.dir\build.make CMakeFiles/LInstrukcjaSwitch_char_B.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=47 "Built target LInstrukcjaSwitch_char_B"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=47 "Built target LInstrukcjaSwitch_char_B"
 .PHONY : CMakeFiles/LInstrukcjaSwitch_char_B.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LInstrukcjaSwitch_char_B.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LInstrukcjaSwitch_char_B.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LInstrukcjaSwitch_char_B.dir/rule
 
 # Convenience name for target.
@@ -1804,14 +1804,14 @@ CMakeFiles/LInstrukcjaSwitch_char_B.dir/clean:
 CMakeFiles/LInstrukcjaWhile.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaWhile.dir\build.make CMakeFiles/LInstrukcjaWhile.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LInstrukcjaWhile.dir\build.make CMakeFiles/LInstrukcjaWhile.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=48 "Built target LInstrukcjaWhile"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=48 "Built target LInstrukcjaWhile"
 .PHONY : CMakeFiles/LInstrukcjaWhile.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LInstrukcjaWhile.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LInstrukcjaWhile.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LInstrukcjaWhile.dir/rule
 
 # Convenience name for target.
@@ -1830,14 +1830,14 @@ CMakeFiles/LInstrukcjaWhile.dir/clean:
 CMakeFiles/LManipulatory.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulatory.dir\build.make CMakeFiles/LManipulatory.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulatory.dir\build.make CMakeFiles/LManipulatory.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=50 "Built target LManipulatory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=50 "Built target LManipulatory"
 .PHONY : CMakeFiles/LManipulatory.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LManipulatory.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LManipulatory.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LManipulatory.dir/rule
 
 # Convenience name for target.
@@ -1856,14 +1856,14 @@ CMakeFiles/LManipulatory.dir/clean:
 CMakeFiles/LNamespace.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LNamespace.dir\build.make CMakeFiles/LNamespace.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LNamespace.dir\build.make CMakeFiles/LNamespace.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LNamespace"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LNamespace"
 .PHONY : CMakeFiles/LNamespace.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LNamespace.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LNamespace.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LNamespace.dir/rule
 
 # Convenience name for target.
@@ -1882,14 +1882,14 @@ CMakeFiles/LNamespace.dir/clean:
 CMakeFiles/LNawiasy.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LNawiasy.dir\build.make CMakeFiles/LNawiasy.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LNawiasy.dir\build.make CMakeFiles/LNawiasy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=51 "Built target LNawiasy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=51 "Built target LNawiasy"
 .PHONY : CMakeFiles/LNawiasy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LNawiasy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LNawiasy.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LNawiasy.dir/rule
 
 # Convenience name for target.
@@ -1908,14 +1908,14 @@ CMakeFiles/LNawiasy.dir/clean:
 CMakeFiles/LOperatorInkrementacji.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LOperatorInkrementacji.dir\build.make CMakeFiles/LOperatorInkrementacji.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LOperatorInkrementacji.dir\build.make CMakeFiles/LOperatorInkrementacji.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=52 "Built target LOperatorInkrementacji"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=52 "Built target LOperatorInkrementacji"
 .PHONY : CMakeFiles/LOperatorInkrementacji.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LOperatorInkrementacji.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LOperatorInkrementacji.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LOperatorInkrementacji.dir/rule
 
 # Convenience name for target.
@@ -1934,14 +1934,14 @@ CMakeFiles/LOperatorInkrementacji.dir/clean:
 CMakeFiles/LOperatorPriorytet.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LOperatorPriorytet.dir\build.make CMakeFiles/LOperatorPriorytet.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LOperatorPriorytet.dir\build.make CMakeFiles/LOperatorPriorytet.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=53 "Built target LOperatorPriorytet"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=53 "Built target LOperatorPriorytet"
 .PHONY : CMakeFiles/LOperatorPriorytet.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LOperatorPriorytet.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LOperatorPriorytet.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LOperatorPriorytet.dir/rule
 
 # Convenience name for target.
@@ -1960,14 +1960,14 @@ CMakeFiles/LOperatorPriorytet.dir/clean:
 CMakeFiles/LOperatorPrzypisania.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LOperatorPrzypisania.dir\build.make CMakeFiles/LOperatorPrzypisania.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LOperatorPrzypisania.dir\build.make CMakeFiles/LOperatorPrzypisania.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=54 "Built target LOperatorPrzypisania"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=54 "Built target LOperatorPrzypisania"
 .PHONY : CMakeFiles/LOperatorPrzypisania.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LOperatorPrzypisania.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LOperatorPrzypisania.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LOperatorPrzypisania.dir/rule
 
 # Convenience name for target.
@@ -1986,14 +1986,14 @@ CMakeFiles/LOperatorPrzypisania.dir/clean:
 CMakeFiles/LOperatorWarunkowy.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LOperatorWarunkowy.dir\build.make CMakeFiles/LOperatorWarunkowy.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LOperatorWarunkowy.dir\build.make CMakeFiles/LOperatorWarunkowy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LOperatorWarunkowy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LOperatorWarunkowy"
 .PHONY : CMakeFiles/LOperatorWarunkowy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LOperatorWarunkowy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LOperatorWarunkowy.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LOperatorWarunkowy.dir/rule
 
 # Convenience name for target.
@@ -2012,14 +2012,14 @@ CMakeFiles/LOperatorWarunkowy.dir/clean:
 CMakeFiles/LPODInitalize.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPODInitalize.dir\build.make CMakeFiles/LPODInitalize.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPODInitalize.dir\build.make CMakeFiles/LPODInitalize.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=55 "Built target LPODInitalize"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=55 "Built target LPODInitalize"
 .PHONY : CMakeFiles/LPODInitalize.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LPODInitalize.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LPODInitalize.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LPODInitalize.dir/rule
 
 # Convenience name for target.
@@ -2038,14 +2038,14 @@ CMakeFiles/LPODInitalize.dir/clean:
 CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir\build.make CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir\build.make CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=56 "Built target LPrzekazywaniePrzezWartoscReferencjeWskaznik"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=56 "Built target LPrzekazywaniePrzezWartoscReferencjeWskaznik"
 .PHONY : CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/rule
 
 # Convenience name for target.
@@ -2064,14 +2064,14 @@ CMakeFiles/LPrzekazywaniePrzezWartoscReferencjeWskaznik.dir/clean:
 CMakeFiles/LPrzekazywanieTablic.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPrzekazywanieTablic.dir\build.make CMakeFiles/LPrzekazywanieTablic.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPrzekazywanieTablic.dir\build.make CMakeFiles/LPrzekazywanieTablic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=57 "Built target LPrzekazywanieTablic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=57 "Built target LPrzekazywanieTablic"
 .PHONY : CMakeFiles/LPrzekazywanieTablic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LPrzekazywanieTablic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LPrzekazywanieTablic.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LPrzekazywanieTablic.dir/rule
 
 # Convenience name for target.
@@ -2090,14 +2090,14 @@ CMakeFiles/LPrzekazywanieTablic.dir/clean:
 CMakeFiles/LPrzeliczanieDec2BinA.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPrzeliczanieDec2BinA.dir\build.make CMakeFiles/LPrzeliczanieDec2BinA.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPrzeliczanieDec2BinA.dir\build.make CMakeFiles/LPrzeliczanieDec2BinA.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=58 "Built target LPrzeliczanieDec2BinA"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=58 "Built target LPrzeliczanieDec2BinA"
 .PHONY : CMakeFiles/LPrzeliczanieDec2BinA.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LPrzeliczanieDec2BinA.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LPrzeliczanieDec2BinA.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LPrzeliczanieDec2BinA.dir/rule
 
 # Convenience name for target.
@@ -2116,14 +2116,14 @@ CMakeFiles/LPrzeliczanieDec2BinA.dir/clean:
 CMakeFiles/LPrzeliczanieDec2BinB.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPrzeliczanieDec2BinB.dir\build.make CMakeFiles/LPrzeliczanieDec2BinB.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LPrzeliczanieDec2BinB.dir\build.make CMakeFiles/LPrzeliczanieDec2BinB.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=59 "Built target LPrzeliczanieDec2BinB"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=59 "Built target LPrzeliczanieDec2BinB"
 .PHONY : CMakeFiles/LPrzeliczanieDec2BinB.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LPrzeliczanieDec2BinB.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LPrzeliczanieDec2BinB.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LPrzeliczanieDec2BinB.dir/rule
 
 # Convenience name for target.
@@ -2142,14 +2142,14 @@ CMakeFiles/LPrzeliczanieDec2BinB.dir/clean:
 CMakeFiles/LSetFill.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LSetFill.dir\build.make CMakeFiles/LSetFill.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LSetFill.dir\build.make CMakeFiles/LSetFill.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LSetFill"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LSetFill"
 .PHONY : CMakeFiles/LSetFill.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LSetFill.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LSetFill.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LSetFill.dir/rule
 
 # Convenience name for target.
@@ -2168,14 +2168,14 @@ CMakeFiles/LSetFill.dir/clean:
 CMakeFiles/LSetPrecision.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LSetPrecision.dir\build.make CMakeFiles/LSetPrecision.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LSetPrecision.dir\build.make CMakeFiles/LSetPrecision.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=60 "Built target LSetPrecision"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=60 "Built target LSetPrecision"
 .PHONY : CMakeFiles/LSetPrecision.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LSetPrecision.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LSetPrecision.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LSetPrecision.dir/rule
 
 # Convenience name for target.
@@ -2194,14 +2194,14 @@ CMakeFiles/LSetPrecision.dir/clean:
 CMakeFiles/LSizeof.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LSizeof.dir\build.make CMakeFiles/LSizeof.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LSizeof.dir\build.make CMakeFiles/LSizeof.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=61 "Built target LSizeof"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=61 "Built target LSizeof"
 .PHONY : CMakeFiles/LSizeof.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LSizeof.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LSizeof.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LSizeof.dir/rule
 
 # Convenience name for target.
@@ -2220,14 +2220,14 @@ CMakeFiles/LSizeof.dir/clean:
 CMakeFiles/LStatic.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStatic.dir\build.make CMakeFiles/LStatic.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStatic.dir\build.make CMakeFiles/LStatic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=62 "Built target LStatic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=62 "Built target LStatic"
 .PHONY : CMakeFiles/LStatic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStatic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStatic.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStatic.dir/rule
 
 # Convenience name for target.
@@ -2246,14 +2246,14 @@ CMakeFiles/LStatic.dir/clean:
 CMakeFiles/LStaticCast.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStaticCast.dir\build.make CMakeFiles/LStaticCast.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStaticCast.dir\build.make CMakeFiles/LStaticCast.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=63 "Built target LStaticCast"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=63 "Built target LStaticCast"
 .PHONY : CMakeFiles/LStaticCast.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStaticCast.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStaticCast.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStaticCast.dir/rule
 
 # Convenience name for target.
@@ -2272,14 +2272,14 @@ CMakeFiles/LStaticCast.dir/clean:
 CMakeFiles/LStaticFunctionMember.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStaticFunctionMember.dir\build.make CMakeFiles/LStaticFunctionMember.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStaticFunctionMember.dir\build.make CMakeFiles/LStaticFunctionMember.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LStaticFunctionMember"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LStaticFunctionMember"
 .PHONY : CMakeFiles/LStaticFunctionMember.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStaticFunctionMember.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStaticFunctionMember.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStaticFunctionMember.dir/rule
 
 # Convenience name for target.
@@ -2298,14 +2298,14 @@ CMakeFiles/LStaticFunctionMember.dir/clean:
 CMakeFiles/LStaticMember.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStaticMember.dir\build.make CMakeFiles/LStaticMember.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStaticMember.dir\build.make CMakeFiles/LStaticMember.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=64 "Built target LStaticMember"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=64 "Built target LStaticMember"
 .PHONY : CMakeFiles/LStaticMember.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStaticMember.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStaticMember.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStaticMember.dir/rule
 
 # Convenience name for target.
@@ -2324,14 +2324,14 @@ CMakeFiles/LStaticMember.dir/clean:
 CMakeFiles/LString.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LString.dir\build.make CMakeFiles/LString.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LString.dir\build.make CMakeFiles/LString.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=65 "Built target LString"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=65 "Built target LString"
 .PHONY : CMakeFiles/LString.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LString.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LString.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LString.dir/rule
 
 # Convenience name for target.
@@ -2350,14 +2350,14 @@ CMakeFiles/LString.dir/clean:
 CMakeFiles/LStruct.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStruct.dir\build.make CMakeFiles/LStruct.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStruct.dir\build.make CMakeFiles/LStruct.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=67 "Built target LStruct"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=67 "Built target LStruct"
 .PHONY : CMakeFiles/LStruct.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStruct.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStruct.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStruct.dir/rule
 
 # Convenience name for target.
@@ -2376,14 +2376,14 @@ CMakeFiles/LStruct.dir/clean:
 CMakeFiles/LStructListaInicjalizacyjna.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStructListaInicjalizacyjna.dir\build.make CMakeFiles/LStructListaInicjalizacyjna.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStructListaInicjalizacyjna.dir\build.make CMakeFiles/LStructListaInicjalizacyjna.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=68 "Built target LStructListaInicjalizacyjna"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=68 "Built target LStructListaInicjalizacyjna"
 .PHONY : CMakeFiles/LStructListaInicjalizacyjna.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStructListaInicjalizacyjna.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStructListaInicjalizacyjna.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStructListaInicjalizacyjna.dir/rule
 
 # Convenience name for target.
@@ -2402,14 +2402,14 @@ CMakeFiles/LStructListaInicjalizacyjna.dir/clean:
 CMakeFiles/LStrumienie.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumienie.dir\build.make CMakeFiles/LStrumienie.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumienie.dir\build.make CMakeFiles/LStrumienie.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LStrumienie"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LStrumienie"
 .PHONY : CMakeFiles/LStrumienie.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStrumienie.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStrumienie.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStrumienie.dir/rule
 
 # Convenience name for target.
@@ -2428,14 +2428,14 @@ CMakeFiles/LStrumienie.dir/clean:
 CMakeFiles/LStrumienieNapisow.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumienieNapisow.dir\build.make CMakeFiles/LStrumienieNapisow.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumienieNapisow.dir\build.make CMakeFiles/LStrumienieNapisow.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=69 "Built target LStrumienieNapisow"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=69 "Built target LStrumienieNapisow"
 .PHONY : CMakeFiles/LStrumienieNapisow.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStrumienieNapisow.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStrumienieNapisow.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStrumienieNapisow.dir/rule
 
 # Convenience name for target.
@@ -2454,14 +2454,14 @@ CMakeFiles/LStrumienieNapisow.dir/clean:
 CMakeFiles/LStrumieniePlikoweA.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumieniePlikoweA.dir\build.make CMakeFiles/LStrumieniePlikoweA.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumieniePlikoweA.dir\build.make CMakeFiles/LStrumieniePlikoweA.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=70 "Built target LStrumieniePlikoweA"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=70 "Built target LStrumieniePlikoweA"
 .PHONY : CMakeFiles/LStrumieniePlikoweA.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStrumieniePlikoweA.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStrumieniePlikoweA.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStrumieniePlikoweA.dir/rule
 
 # Convenience name for target.
@@ -2480,14 +2480,14 @@ CMakeFiles/LStrumieniePlikoweA.dir/clean:
 CMakeFiles/LStrumieniePlikoweB.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumieniePlikoweB.dir\build.make CMakeFiles/LStrumieniePlikoweB.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumieniePlikoweB.dir\build.make CMakeFiles/LStrumieniePlikoweB.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=71 "Built target LStrumieniePlikoweB"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=71 "Built target LStrumieniePlikoweB"
 .PHONY : CMakeFiles/LStrumieniePlikoweB.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStrumieniePlikoweB.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStrumieniePlikoweB.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStrumieniePlikoweB.dir/rule
 
 # Convenience name for target.
@@ -2506,14 +2506,14 @@ CMakeFiles/LStrumieniePlikoweB.dir/clean:
 CMakeFiles/LStrumienieTail.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumienieTail.dir\build.make CMakeFiles/LStrumienieTail.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStrumienieTail.dir\build.make CMakeFiles/LStrumienieTail.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=72 "Built target LStrumienieTail"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=72 "Built target LStrumienieTail"
 .PHONY : CMakeFiles/LStrumienieTail.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStrumienieTail.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStrumienieTail.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStrumienieTail.dir/rule
 
 # Convenience name for target.
@@ -2532,14 +2532,14 @@ CMakeFiles/LStrumienieTail.dir/clean:
 CMakeFiles/LTabliceAutomatyczne.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTabliceAutomatyczne.dir\build.make CMakeFiles/LTabliceAutomatyczne.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTabliceAutomatyczne.dir\build.make CMakeFiles/LTabliceAutomatyczne.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LTabliceAutomatyczne"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LTabliceAutomatyczne"
 .PHONY : CMakeFiles/LTabliceAutomatyczne.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LTabliceAutomatyczne.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LTabliceAutomatyczne.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LTabliceAutomatyczne.dir/rule
 
 # Convenience name for target.
@@ -2558,14 +2558,14 @@ CMakeFiles/LTabliceAutomatyczne.dir/clean:
 CMakeFiles/LTabliceDynamiczne.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTabliceDynamiczne.dir\build.make CMakeFiles/LTabliceDynamiczne.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTabliceDynamiczne.dir\build.make CMakeFiles/LTabliceDynamiczne.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=73 "Built target LTabliceDynamiczne"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=73 "Built target LTabliceDynamiczne"
 .PHONY : CMakeFiles/LTabliceDynamiczne.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LTabliceDynamiczne.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LTabliceDynamiczne.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LTabliceDynamiczne.dir/rule
 
 # Convenience name for target.
@@ -2584,14 +2584,14 @@ CMakeFiles/LTabliceDynamiczne.dir/clean:
 CMakeFiles/LThis.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LThis.dir\build.make CMakeFiles/LThis.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LThis.dir\build.make CMakeFiles/LThis.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=74 "Built target LThis"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=74 "Built target LThis"
 .PHONY : CMakeFiles/LThis.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LThis.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LThis.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LThis.dir/rule
 
 # Convenience name for target.
@@ -2610,14 +2610,14 @@ CMakeFiles/LThis.dir/clean:
 CMakeFiles/LTimeMeasure.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTimeMeasure.dir\build.make CMakeFiles/LTimeMeasure.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTimeMeasure.dir\build.make CMakeFiles/LTimeMeasure.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=75 "Built target LTimeMeasure"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=75 "Built target LTimeMeasure"
 .PHONY : CMakeFiles/LTimeMeasure.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LTimeMeasure.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LTimeMeasure.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LTimeMeasure.dir/rule
 
 # Convenience name for target.
@@ -2636,14 +2636,14 @@ CMakeFiles/LTimeMeasure.dir/clean:
 CMakeFiles/LType.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LType.dir\build.make CMakeFiles/LType.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LType.dir\build.make CMakeFiles/LType.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=76 "Built target LType"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=76 "Built target LType"
 .PHONY : CMakeFiles/LType.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LType.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LType.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LType.dir/rule
 
 # Convenience name for target.
@@ -2662,14 +2662,14 @@ CMakeFiles/LType.dir/clean:
 CMakeFiles/LTypeAuto.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTypeAuto.dir\build.make CMakeFiles/LTypeAuto.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTypeAuto.dir\build.make CMakeFiles/LTypeAuto.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=77 "Built target LTypeAuto"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=77 "Built target LTypeAuto"
 .PHONY : CMakeFiles/LTypeAuto.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LTypeAuto.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LTypeAuto.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LTypeAuto.dir/rule
 
 # Convenience name for target.
@@ -2688,14 +2688,14 @@ CMakeFiles/LTypeAuto.dir/clean:
 CMakeFiles/LTypeConst.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTypeConst.dir\build.make CMakeFiles/LTypeConst.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTypeConst.dir\build.make CMakeFiles/LTypeConst.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LTypeConst"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target LTypeConst"
 .PHONY : CMakeFiles/LTypeConst.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LTypeConst.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LTypeConst.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LTypeConst.dir/rule
 
 # Convenience name for target.
@@ -2714,14 +2714,14 @@ CMakeFiles/LTypeConst.dir/clean:
 CMakeFiles/LTypeEnumerated.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTypeEnumerated.dir\build.make CMakeFiles/LTypeEnumerated.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LTypeEnumerated.dir\build.make CMakeFiles/LTypeEnumerated.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=78 "Built target LTypeEnumerated"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=78 "Built target LTypeEnumerated"
 .PHONY : CMakeFiles/LTypeEnumerated.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LTypeEnumerated.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LTypeEnumerated.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LTypeEnumerated.dir/rule
 
 # Convenience name for target.
@@ -2740,14 +2740,14 @@ CMakeFiles/LTypeEnumerated.dir/clean:
 CMakeFiles/LUnion.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LUnion.dir\build.make CMakeFiles/LUnion.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LUnion.dir\build.make CMakeFiles/LUnion.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=79 "Built target LUnion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=79 "Built target LUnion"
 .PHONY : CMakeFiles/LUnion.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LUnion.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LUnion.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LUnion.dir/rule
 
 # Convenience name for target.
@@ -2766,14 +2766,14 @@ CMakeFiles/LUnion.dir/clean:
 CMakeFiles/LUnionDouble.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LUnionDouble.dir\build.make CMakeFiles/LUnionDouble.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LUnionDouble.dir\build.make CMakeFiles/LUnionDouble.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=80 "Built target LUnionDouble"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=80 "Built target LUnionDouble"
 .PHONY : CMakeFiles/LUnionDouble.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LUnionDouble.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LUnionDouble.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LUnionDouble.dir/rule
 
 # Convenience name for target.
@@ -2792,14 +2792,14 @@ CMakeFiles/LUnionDouble.dir/clean:
 CMakeFiles/noTemplateFunction.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\noTemplateFunction.dir\build.make CMakeFiles/noTemplateFunction.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\noTemplateFunction.dir\build.make CMakeFiles/noTemplateFunction.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=98 "Built target noTemplateFunction"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=98 "Built target noTemplateFunction"
 .PHONY : CMakeFiles/noTemplateFunction.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/noTemplateFunction.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/noTemplateFunction.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/noTemplateFunction.dir/rule
 
 # Convenience name for target.
@@ -2818,14 +2818,14 @@ CMakeFiles/noTemplateFunction.dir/clean:
 CMakeFiles/templateClass.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\templateClass.dir\build.make CMakeFiles/templateClass.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\templateClass.dir\build.make CMakeFiles/templateClass.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=99 "Built target templateClass"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=99 "Built target templateClass"
 .PHONY : CMakeFiles/templateClass.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/templateClass.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/templateClass.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/templateClass.dir/rule
 
 # Convenience name for target.
@@ -2844,14 +2844,14 @@ CMakeFiles/templateClass.dir/clean:
 CMakeFiles/templateFunction.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\templateFunction.dir\build.make CMakeFiles/templateFunction.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\templateFunction.dir\build.make CMakeFiles/templateFunction.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=100 "Built target templateFunction"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=100 "Built target templateFunction"
 .PHONY : CMakeFiles/templateFunction.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/templateFunction.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/templateFunction.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/templateFunction.dir/rule
 
 # Convenience name for target.
@@ -2870,14 +2870,14 @@ CMakeFiles/templateFunction.dir/clean:
 CMakeFiles/ZadMainExample.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMainExample.dir\build.make CMakeFiles/ZadMainExample.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMainExample.dir\build.make CMakeFiles/ZadMainExample.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target ZadMainExample"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target ZadMainExample"
 .PHONY : CMakeFiles/ZadMainExample.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadMainExample.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadMainExample.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadMainExample.dir/rule
 
 # Convenience name for target.
@@ -2896,14 +2896,14 @@ CMakeFiles/ZadMainExample.dir/clean:
 CMakeFiles/ZadZwracanie.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadZwracanie.dir\build.make CMakeFiles/ZadZwracanie.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadZwracanie.dir\build.make CMakeFiles/ZadZwracanie.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=97 "Built target ZadZwracanie"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=97 "Built target ZadZwracanie"
 .PHONY : CMakeFiles/ZadZwracanie.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadZwracanie.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadZwracanie.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadZwracanie.dir/rule
 
 # Convenience name for target.
@@ -2922,14 +2922,14 @@ CMakeFiles/ZadZwracanie.dir/clean:
 CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\build.make CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\build.make CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=93 "Built target ZadPrzekazywanieTablicZpodaniemRozmiaru"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=93 "Built target ZadPrzekazywanieTablicZpodaniemRozmiaru"
 .PHONY : CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/rule
 
 # Convenience name for target.
@@ -2948,14 +2948,14 @@ CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/clean:
 CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicKopia.cc.dir\build.make CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicKopia.cc.dir\build.make CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=92 "Built target ZadPrzekazywanieTablicKopia.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=92 "Built target ZadPrzekazywanieTablicKopia.cc"
 .PHONY : CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/rule
 
 # Convenience name for target.
@@ -2974,14 +2974,14 @@ CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/clean:
 CMakeFiles/ZadAdresowaniePamieci.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadAdresowaniePamieci.cc.dir\build.make CMakeFiles/ZadAdresowaniePamieci.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadAdresowaniePamieci.cc.dir\build.make CMakeFiles/ZadAdresowaniePamieci.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=81 "Built target ZadAdresowaniePamieci.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=81 "Built target ZadAdresowaniePamieci.cc"
 .PHONY : CMakeFiles/ZadAdresowaniePamieci.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadAdresowaniePamieci.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadAdresowaniePamieci.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadAdresowaniePamieci.cc.dir/rule
 
 # Convenience name for target.
@@ -3000,14 +3000,14 @@ CMakeFiles/ZadAdresowaniePamieci.cc.dir/clean:
 CMakeFiles/ZadIq.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadIq.cc.dir\build.make CMakeFiles/ZadIq.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadIq.cc.dir\build.make CMakeFiles/ZadIq.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=85 "Built target ZadIq.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=85 "Built target ZadIq.cc"
 .PHONY : CMakeFiles/ZadIq.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadIq.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadIq.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadIq.cc.dir/rule
 
 # Convenience name for target.
@@ -3026,14 +3026,14 @@ CMakeFiles/ZadIq.cc.dir/clean:
 CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\build.make CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\build.make CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target ZadArytmetykaWskaznikow.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target ZadArytmetykaWskaznikow.cc"
 .PHONY : CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/rule
 
 # Convenience name for target.
@@ -3052,14 +3052,14 @@ CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/clean:
 CMakeFiles/ZadOperatoryPrzypisania.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadOperatoryPrzypisania.cc.dir\build.make CMakeFiles/ZadOperatoryPrzypisania.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadOperatoryPrzypisania.cc.dir\build.make CMakeFiles/ZadOperatoryPrzypisania.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=88 "Built target ZadOperatoryPrzypisania.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=88 "Built target ZadOperatoryPrzypisania.cc"
 .PHONY : CMakeFiles/ZadOperatoryPrzypisania.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadOperatoryPrzypisania.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadOperatoryPrzypisania.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadOperatoryPrzypisania.cc.dir/rule
 
 # Convenience name for target.
@@ -3078,14 +3078,14 @@ CMakeFiles/ZadOperatoryPrzypisania.cc.dir/clean:
 CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=8 "Built target LBitoweOperatoryLogiczneSingleVariable.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=8 "Built target LBitoweOperatoryLogiczneSingleVariable.cc"
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/rule
 
 # Convenience name for target.
@@ -3104,14 +3104,14 @@ CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/clean:
 CMakeFiles/LStringStream.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStringStream.cc.dir\build.make CMakeFiles/LStringStream.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStringStream.cc.dir\build.make CMakeFiles/LStringStream.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=66 "Built target LStringStream.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=66 "Built target LStringStream.cc"
 .PHONY : CMakeFiles/LStringStream.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LStringStream.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LStringStream.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LStringStream.cc.dir/rule
 
 # Convenience name for target.
@@ -3130,14 +3130,14 @@ CMakeFiles/LStringStream.cc.dir/clean:
 CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\build.make CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\build.make CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=49 "Built target LManipulacjaStrumieniemCout.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=49 "Built target LManipulacjaStrumieniemCout.cc"
 .PHONY : CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/rule
 
 # Convenience name for target.
@@ -3156,14 +3156,14 @@ CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/clean:
 CMakeFiles/ZadCinCoutFile.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCinCoutFile.cc.dir\build.make CMakeFiles/ZadCinCoutFile.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCinCoutFile.cc.dir\build.make CMakeFiles/ZadCinCoutFile.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=83 "Built target ZadCinCoutFile.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=83 "Built target ZadCinCoutFile.cc"
 .PHONY : CMakeFiles/ZadCinCoutFile.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadCinCoutFile.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadCinCoutFile.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadCinCoutFile.cc.dir/rule
 
 # Convenience name for target.
@@ -3182,14 +3182,14 @@ CMakeFiles/ZadCinCoutFile.cc.dir/clean:
 CMakeFiles/ZadCandCPP.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCandCPP.cc.dir\build.make CMakeFiles/ZadCandCPP.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCandCPP.cc.dir\build.make CMakeFiles/ZadCandCPP.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=82 "Built target ZadCandCPP.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=82 "Built target ZadCandCPP.cc"
 .PHONY : CMakeFiles/ZadCandCPP.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadCandCPP.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadCandCPP.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadCandCPP.cc.dir/rule
 
 # Convenience name for target.
@@ -3208,14 +3208,14 @@ CMakeFiles/ZadCandCPP.cc.dir/clean:
 CMakeFiles/ZadParzysta.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzysta.cc.dir\build.make CMakeFiles/ZadParzysta.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzysta.cc.dir\build.make CMakeFiles/ZadParzysta.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=89 "Built target ZadParzysta.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=89 "Built target ZadParzysta.cc"
 .PHONY : CMakeFiles/ZadParzysta.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadParzysta.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadParzysta.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadParzysta.cc.dir/rule
 
 # Convenience name for target.
@@ -3234,14 +3234,14 @@ CMakeFiles/ZadParzysta.cc.dir/clean:
 CMakeFiles/ZadParzystaCase.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzystaCase.cc.dir\build.make CMakeFiles/ZadParzystaCase.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzystaCase.cc.dir\build.make CMakeFiles/ZadParzystaCase.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=90 "Built target ZadParzystaCase.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=90 "Built target ZadParzystaCase.cc"
 .PHONY : CMakeFiles/ZadParzystaCase.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadParzystaCase.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadParzystaCase.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadParzystaCase.cc.dir/rule
 
 # Convenience name for target.
@@ -3260,14 +3260,14 @@ CMakeFiles/ZadParzystaCase.cc.dir/clean:
 CMakeFiles/ZadPetle.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPetle.cc.dir\build.make CMakeFiles/ZadPetle.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPetle.cc.dir\build.make CMakeFiles/ZadPetle.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target ZadPetle.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target ZadPetle.cc"
 .PHONY : CMakeFiles/ZadPetle.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadPetle.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadPetle.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadPetle.cc.dir/rule
 
 # Convenience name for target.
@@ -3286,14 +3286,14 @@ CMakeFiles/ZadPetle.cc.dir/clean:
 CMakeFiles/ZadSwitch.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadSwitch.cc.dir\build.make CMakeFiles/ZadSwitch.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadSwitch.cc.dir\build.make CMakeFiles/ZadSwitch.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target ZadSwitch.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num= "Built target ZadSwitch.cc"
 .PHONY : CMakeFiles/ZadSwitch.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadSwitch.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadSwitch.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadSwitch.cc.dir/rule
 
 # Convenience name for target.
@@ -3312,14 +3312,14 @@ CMakeFiles/ZadSwitch.cc.dir/clean:
 CMakeFiles/ZadPreprocesor.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPreprocesor.cc.dir\build.make CMakeFiles/ZadPreprocesor.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPreprocesor.cc.dir\build.make CMakeFiles/ZadPreprocesor.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=91 "Built target ZadPreprocesor.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=91 "Built target ZadPreprocesor.cc"
 .PHONY : CMakeFiles/ZadPreprocesor.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadPreprocesor.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadPreprocesor.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadPreprocesor.cc.dir/rule
 
 # Convenience name for target.
@@ -3338,14 +3338,14 @@ CMakeFiles/ZadPreprocesor.cc.dir/clean:
 CMakeFiles/ZadClass.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadClass.cc.dir\build.make CMakeFiles/ZadClass.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadClass.cc.dir\build.make CMakeFiles/ZadClass.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=84 "Built target ZadClass.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=84 "Built target ZadClass.cc"
 .PHONY : CMakeFiles/ZadClass.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadClass.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadClass.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadClass.cc.dir/rule
 
 # Convenience name for target.
@@ -3364,14 +3364,14 @@ CMakeFiles/ZadClass.cc.dir/clean:
 CMakeFiles/ZadStruct.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStruct.cc.dir\build.make CMakeFiles/ZadStruct.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStruct.cc.dir\build.make CMakeFiles/ZadStruct.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=94 "Built target ZadStruct.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=94 "Built target ZadStruct.cc"
 .PHONY : CMakeFiles/ZadStruct.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadStruct.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadStruct.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadStruct.cc.dir/rule
 
 # Convenience name for target.
@@ -3390,14 +3390,14 @@ CMakeFiles/ZadStruct.cc.dir/clean:
 CMakeFiles/ZadUnia.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadUnia.cc.dir\build.make CMakeFiles/ZadUnia.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadUnia.cc.dir\build.make CMakeFiles/ZadUnia.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=96 "Built target ZadUnia.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=96 "Built target ZadUnia.cc"
 .PHONY : CMakeFiles/ZadUnia.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadUnia.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadUnia.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadUnia.cc.dir/rule
 
 # Convenience name for target.
@@ -3416,14 +3416,14 @@ CMakeFiles/ZadUnia.cc.dir/clean:
 CMakeFiles/ZadKlasaKonstruktor.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadKlasaKonstruktor.cc.dir\build.make CMakeFiles/ZadKlasaKonstruktor.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadKlasaKonstruktor.cc.dir\build.make CMakeFiles/ZadKlasaKonstruktor.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=86 "Built target ZadKlasaKonstruktor.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=86 "Built target ZadKlasaKonstruktor.cc"
 .PHONY : CMakeFiles/ZadKlasaKonstruktor.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadKlasaKonstruktor.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadKlasaKonstruktor.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadKlasaKonstruktor.cc.dir/rule
 
 # Convenience name for target.
@@ -3442,14 +3442,14 @@ CMakeFiles/ZadKlasaKonstruktor.cc.dir/clean:
 CMakeFiles/ZadStructKonstruktor.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStructKonstruktor.cc.dir\build.make CMakeFiles/ZadStructKonstruktor.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStructKonstruktor.cc.dir\build.make CMakeFiles/ZadStructKonstruktor.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=95 "Built target ZadStructKonstruktor.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=95 "Built target ZadStructKonstruktor.cc"
 .PHONY : CMakeFiles/ZadStructKonstruktor.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadStructKonstruktor.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadStructKonstruktor.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadStructKonstruktor.cc.dir/rule
 
 # Convenience name for target.
@@ -3468,14 +3468,14 @@ CMakeFiles/ZadStructKonstruktor.cc.dir/clean:
 CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMetodyAbstrakcyjne.cc.dir\build.make CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMetodyAbstrakcyjne.cc.dir\build.make CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=87 "Built target ZadMetodyAbstrakcyjne.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=87 "Built target ZadMetodyAbstrakcyjne.cc"
 .PHONY : CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/rule
 
 # Convenience name for target.

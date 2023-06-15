@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ZadCinCoutFile.cc.dir/depend.make
@@ -68,34 +68,34 @@ include CMakeFiles/ZadCinCoutFile.cc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ZadCinCoutFile.cc.dir/flags.make
 
-CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj: CMakeFiles/ZadCinCoutFile.cc.dir/flags.make
-CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj: CMakeFiles/ZadCinCoutFile.cc.dir/includes_CXX.rsp
-CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc
-CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj: CMakeFiles/ZadCinCoutFile.cc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj -MF CMakeFiles\ZadCinCoutFile.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadCinCoutFile.cc.obj.d -o CMakeFiles\ZadCinCoutFile.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadCinCoutFile.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadCinCoutFile.cc"
+CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj: CMakeFiles/ZadCinCoutFile.cc.dir/flags.make
+CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj: CMakeFiles/ZadCinCoutFile.cc.dir/includes_CXX.rsp
+CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc
+CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj: CMakeFiles/ZadCinCoutFile.cc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj -MF CMakeFiles\ZadCinCoutFile.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadCinCoutFile.cc.obj.d -o CMakeFiles\ZadCinCoutFile.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadCinCoutFile.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadCinCoutFile.cc"
 
-CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadCinCoutFile.cc" > CMakeFiles\ZadCinCoutFile.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadCinCoutFile.cc.i
+CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadCinCoutFile.cc" > CMakeFiles\ZadCinCoutFile.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadCinCoutFile.cc.i
 
-CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadCinCoutFile.cc" -o CMakeFiles\ZadCinCoutFile.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadCinCoutFile.cc.s
+CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadCinCoutFile.cc" -o CMakeFiles\ZadCinCoutFile.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadCinCoutFile.cc.s
 
 # Object files for target ZadCinCoutFile.cc
 ZadCinCoutFile_cc_OBJECTS = \
-"CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj"
+"CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj"
 
 # External object files for target ZadCinCoutFile.cc
 ZadCinCoutFile_cc_EXTERNAL_OBJECTS =
 
-ZadCinCoutFile.cc.exe: CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj
+ZadCinCoutFile.cc.exe: CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj
 ZadCinCoutFile.cc.exe: CMakeFiles/ZadCinCoutFile.cc.dir/build.make
 ZadCinCoutFile.cc.exe: CMakeFiles/ZadCinCoutFile.cc.dir/linkLibs.rsp
 ZadCinCoutFile.cc.exe: CMakeFiles/ZadCinCoutFile.cc.dir/objects1
 ZadCinCoutFile.cc.exe: CMakeFiles/ZadCinCoutFile.cc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadCinCoutFile.cc.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadCinCoutFile.cc.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ZadCinCoutFile.cc.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/ZadCinCoutFile.cc.dir/clean:
 .PHONY : CMakeFiles/ZadCinCoutFile.cc.dir/clean
 
 CMakeFiles/ZadCinCoutFile.cc.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\ZadCinCoutFile.cc.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\ZadCinCoutFile.cc.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ZadCinCoutFile.cc.dir/depend
 

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.obj"
-  "CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.obj.d"
+  "CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.obj"
+  "CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.obj.d"
   "ZadZwracanie.exe"
   "ZadZwracanie.exe.manifest"
   "ZadZwracanie.pdb"

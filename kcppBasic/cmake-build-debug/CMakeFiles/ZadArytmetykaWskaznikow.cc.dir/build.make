@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/depend.make
@@ -68,34 +68,34 @@ include CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/flags.make
 
-CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/flags.make
-CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/includes_CXX.rsp
-CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc
-CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj -MF CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadArytmetykaWskaznikow.cc.obj.d -o CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadArytmetykaWskaznikow.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadArytmetykaWskaznikow.cc"
+CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/flags.make
+CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/includes_CXX.rsp
+CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc
+CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj -MF CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadArytmetykaWskaznikow.cc.obj.d -o CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadArytmetykaWskaznikow.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadArytmetykaWskaznikow.cc"
 
-CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadArytmetykaWskaznikow.cc" > CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadArytmetykaWskaznikow.cc.i
+CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadArytmetykaWskaznikow.cc" > CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadArytmetykaWskaznikow.cc.i
 
-CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadArytmetykaWskaznikow.cc" -o CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadArytmetykaWskaznikow.cc.s
+CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadArytmetykaWskaznikow.cc" -o CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadArytmetykaWskaznikow.cc.s
 
 # Object files for target ZadArytmetykaWskaznikow.cc
 ZadArytmetykaWskaznikow_cc_OBJECTS = \
-"CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj"
+"CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj"
 
 # External object files for target ZadArytmetykaWskaznikow.cc
 ZadArytmetykaWskaznikow_cc_EXTERNAL_OBJECTS =
 
-ZadArytmetykaWskaznikow.cc.exe: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj
+ZadArytmetykaWskaznikow.cc.exe: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj
 ZadArytmetykaWskaznikow.cc.exe: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/build.make
 ZadArytmetykaWskaznikow.cc.exe: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/linkLibs.rsp
 ZadArytmetykaWskaznikow.cc.exe: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/objects1
 ZadArytmetykaWskaznikow.cc.exe: CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadArytmetykaWskaznikow.cc.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadArytmetykaWskaznikow.cc.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/clean:
 .PHONY : CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/clean
 
 CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/depend
 

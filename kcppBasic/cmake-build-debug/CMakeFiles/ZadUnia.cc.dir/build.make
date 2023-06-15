@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ZadUnia.cc.dir/depend.make
@@ -68,34 +68,34 @@ include CMakeFiles/ZadUnia.cc.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ZadUnia.cc.dir/flags.make
 
-CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj: CMakeFiles/ZadUnia.cc.dir/flags.make
-CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj: CMakeFiles/ZadUnia.cc.dir/includes_CXX.rsp
-CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc
-CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj: CMakeFiles/ZadUnia.cc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj -MF CMakeFiles\ZadUnia.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadUnia.cc.obj.d -o CMakeFiles\ZadUnia.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadUnia.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadUnia.cc"
+CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj: CMakeFiles/ZadUnia.cc.dir/flags.make
+CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj: CMakeFiles/ZadUnia.cc.dir/includes_CXX.rsp
+CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppZadania/ZadUnia.cc
+CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj: CMakeFiles/ZadUnia.cc.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj -MF CMakeFiles\ZadUnia.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadUnia.cc.obj.d -o CMakeFiles\ZadUnia.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadUnia.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadUnia.cc"
 
-CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadUnia.cc" > CMakeFiles\ZadUnia.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadUnia.cc.i
+CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadUnia.cc" > CMakeFiles\ZadUnia.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadUnia.cc.i
 
-CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppZadania\ZadUnia.cc" -o CMakeFiles\ZadUnia.cc.dir\E_\Cpp_Uczelnia\kcpp-main\kcppZadania\ZadUnia.cc.s
+CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppZadania\ZadUnia.cc" -o CMakeFiles\ZadUnia.cc.dir\E_\Cpp_Uczelnia\kcpp\kcppZadania\ZadUnia.cc.s
 
 # Object files for target ZadUnia.cc
 ZadUnia_cc_OBJECTS = \
-"CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj"
+"CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj"
 
 # External object files for target ZadUnia.cc
 ZadUnia_cc_EXTERNAL_OBJECTS =
 
-ZadUnia.cc.exe: CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj
+ZadUnia.cc.exe: CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj
 ZadUnia.cc.exe: CMakeFiles/ZadUnia.cc.dir/build.make
 ZadUnia.cc.exe: CMakeFiles/ZadUnia.cc.dir/linkLibs.rsp
 ZadUnia.cc.exe: CMakeFiles/ZadUnia.cc.dir/objects1
 ZadUnia.cc.exe: CMakeFiles/ZadUnia.cc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadUnia.cc.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ZadUnia.cc.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ZadUnia.cc.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/ZadUnia.cc.dir/clean:
 .PHONY : CMakeFiles/ZadUnia.cc.dir/clean
 
 CMakeFiles/ZadUnia.cc.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\ZadUnia.cc.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\ZadUnia.cc.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ZadUnia.cc.dir/depend
 

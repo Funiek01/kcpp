@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.obj"
-  "CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.obj.d"
+  "CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.obj"
+  "CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.obj.d"
   "ZadParzysta.cc.exe"
   "ZadParzysta.cc.exe.manifest"
   "ZadParzysta.cc.pdb"

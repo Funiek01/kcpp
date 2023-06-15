@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.obj"
-  "CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.obj.d"
+  "CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.obj"
+  "CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.obj.d"
   "ZadPreprocesor.cc.exe"
   "ZadPreprocesor.cc.exe.manifest"
   "ZadPreprocesor.cc.pdb"

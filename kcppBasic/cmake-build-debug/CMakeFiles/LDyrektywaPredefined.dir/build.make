@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LDyrektywaPredefined.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/LDyrektywaPredefined.dir/flags.make
 
 CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.obj: CMakeFiles/LDyrektywaPredefined.dir/flags.make
 CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.obj: CMakeFiles/LDyrektywaPredefined.dir/includes_CXX.rsp
-CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppBasic/src/LDyrektywaPredefined.cc
+CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppBasic/src/LDyrektywaPredefined.cc
 CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.obj: CMakeFiles/LDyrektywaPredefined.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.obj -MF CMakeFiles\LDyrektywaPredefined.dir\src\LDyrektywaPredefined.cc.obj.d -o CMakeFiles\LDyrektywaPredefined.dir\src\LDyrektywaPredefined.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LDyrektywaPredefined.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.obj -MF CMakeFiles\LDyrektywaPredefined.dir\src\LDyrektywaPredefined.cc.obj.d -o CMakeFiles\LDyrektywaPredefined.dir\src\LDyrektywaPredefined.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LDyrektywaPredefined.cc"
 
 CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LDyrektywaPredefined.cc" > CMakeFiles\LDyrektywaPredefined.dir\src\LDyrektywaPredefined.cc.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LDyrektywaPredefined.cc" > CMakeFiles\LDyrektywaPredefined.dir\src\LDyrektywaPredefined.cc.i
 
 CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LDyrektywaPredefined.dir/src/LDyrektywaPredefined.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LDyrektywaPredefined.cc" -o CMakeFiles\LDyrektywaPredefined.dir\src\LDyrektywaPredefined.cc.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LDyrektywaPredefined.cc" -o CMakeFiles\LDyrektywaPredefined.dir\src\LDyrektywaPredefined.cc.s
 
 # Object files for target LDyrektywaPredefined
 LDyrektywaPredefined_OBJECTS = \
@@ -95,7 +95,7 @@ LDyrektywaPredefined.exe: CMakeFiles/LDyrektywaPredefined.dir/build.make
 LDyrektywaPredefined.exe: CMakeFiles/LDyrektywaPredefined.dir/linkLibs.rsp
 LDyrektywaPredefined.exe: CMakeFiles/LDyrektywaPredefined.dir/objects1
 LDyrektywaPredefined.exe: CMakeFiles/LDyrektywaPredefined.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LDyrektywaPredefined.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LDyrektywaPredefined.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LDyrektywaPredefined.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/LDyrektywaPredefined.dir/clean:
 .PHONY : CMakeFiles/LDyrektywaPredefined.dir/clean
 
 CMakeFiles/LDyrektywaPredefined.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\LDyrektywaPredefined.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\LDyrektywaPredefined.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/LDyrektywaPredefined.dir/depend
 

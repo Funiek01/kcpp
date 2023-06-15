@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj"
-  "CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj.d"
+  "CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj"
+  "CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj.d"
   "ZadMetodyAbstrakcyjne.cc.exe"
   "ZadMetodyAbstrakcyjne.cc.exe.manifest"
   "ZadMetodyAbstrakcyjne.cc.pdb"

@@ -6,8 +6,8 @@ void OperatoryArytmetyczne()
     int a = 137;
     int b = 2;
     cout << "a = " << a << ", b = " << b << endl;
-    cout << "a * b = " << a * b << endl; // mnożenie
-    cout << "a / b = " << a / b << endl; // dzielenie
+    cout << "a * b = " << a * b << endl;
+    cout << "a / b = " << a / b << endl;
 }
 
 // Funkcja pokazująca przykłady operatorów przypisania
@@ -23,7 +23,7 @@ void OperatoryPrzypisania() {
 
 int main()
 {
-    OperatoryArytmetyczne(); // wywołanie funkcji z operatorami arytmetycznymi
-    OperatoryPrzypisania(); // wywołanie funkcji z operatorami przypisania
+    OperatoryArytmetyczne();
+    OperatoryPrzypisania();
     return 0;
 }

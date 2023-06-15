@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LClassKonstruktorKopiujacy.cc" "CMakeFiles/LClassKonstruktorKopiujacy.dir/src/LClassKonstruktorKopiujacy.cc.obj" "gcc" "CMakeFiles/LClassKonstruktorKopiujacy.dir/src/LClassKonstruktorKopiujacy.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LClassKonstruktorKopiujacy.cc" "CMakeFiles/LClassKonstruktorKopiujacy.dir/src/LClassKonstruktorKopiujacy.cc.obj" "gcc" "CMakeFiles/LClassKonstruktorKopiujacy.dir/src/LClassKonstruktorKopiujacy.cc.obj.d"
   )
 
 # Targets to which this target links.

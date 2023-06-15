@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.obj"
-  "CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.obj.d"
+  "CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.obj"
+  "CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.obj.d"
   "ZadStructKonstruktor.cc.exe"
   "ZadStructKonstruktor.cc.exe.manifest"
   "ZadStructKonstruktor.cc.pdb"

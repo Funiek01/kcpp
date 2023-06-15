@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LClassDefaultKonstruktor.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/LClassDefaultKonstruktor.dir/flags.make
 
 CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.obj: CMakeFiles/LClassDefaultKonstruktor.dir/flags.make
 CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.obj: CMakeFiles/LClassDefaultKonstruktor.dir/includes_CXX.rsp
-CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppBasic/src/LClassDefaultKonstruktor.cc
+CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppBasic/src/LClassDefaultKonstruktor.cc
 CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.obj: CMakeFiles/LClassDefaultKonstruktor.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.obj -MF CMakeFiles\LClassDefaultKonstruktor.dir\src\LClassDefaultKonstruktor.cc.obj.d -o CMakeFiles\LClassDefaultKonstruktor.dir\src\LClassDefaultKonstruktor.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassDefaultKonstruktor.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.obj -MF CMakeFiles\LClassDefaultKonstruktor.dir\src\LClassDefaultKonstruktor.cc.obj.d -o CMakeFiles\LClassDefaultKonstruktor.dir\src\LClassDefaultKonstruktor.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassDefaultKonstruktor.cc"
 
 CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassDefaultKonstruktor.cc" > CMakeFiles\LClassDefaultKonstruktor.dir\src\LClassDefaultKonstruktor.cc.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassDefaultKonstruktor.cc" > CMakeFiles\LClassDefaultKonstruktor.dir\src\LClassDefaultKonstruktor.cc.i
 
 CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LClassDefaultKonstruktor.dir/src/LClassDefaultKonstruktor.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassDefaultKonstruktor.cc" -o CMakeFiles\LClassDefaultKonstruktor.dir\src\LClassDefaultKonstruktor.cc.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassDefaultKonstruktor.cc" -o CMakeFiles\LClassDefaultKonstruktor.dir\src\LClassDefaultKonstruktor.cc.s
 
 # Object files for target LClassDefaultKonstruktor
 LClassDefaultKonstruktor_OBJECTS = \
@@ -95,7 +95,7 @@ LClassDefaultKonstruktor.exe: CMakeFiles/LClassDefaultKonstruktor.dir/build.make
 LClassDefaultKonstruktor.exe: CMakeFiles/LClassDefaultKonstruktor.dir/linkLibs.rsp
 LClassDefaultKonstruktor.exe: CMakeFiles/LClassDefaultKonstruktor.dir/objects1
 LClassDefaultKonstruktor.exe: CMakeFiles/LClassDefaultKonstruktor.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassDefaultKonstruktor.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassDefaultKonstruktor.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LClassDefaultKonstruktor.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/LClassDefaultKonstruktor.dir/clean:
 .PHONY : CMakeFiles/LClassDefaultKonstruktor.dir/clean
 
 CMakeFiles/LClassDefaultKonstruktor.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\LClassDefaultKonstruktor.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\LClassDefaultKonstruktor.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/LClassDefaultKonstruktor.dir/depend
 

@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LClassMetodyAbstrakcyjne.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/LClassMetodyAbstrakcyjne.dir/flags.make
 
 CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj: CMakeFiles/LClassMetodyAbstrakcyjne.dir/flags.make
 CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj: CMakeFiles/LClassMetodyAbstrakcyjne.dir/includes_CXX.rsp
-CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppBasic/src/LClassMetodyAbstrakcyjne.cc
+CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppBasic/src/LClassMetodyAbstrakcyjne.cc
 CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj: CMakeFiles/LClassMetodyAbstrakcyjne.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj -MF CMakeFiles\LClassMetodyAbstrakcyjne.dir\src\LClassMetodyAbstrakcyjne.cc.obj.d -o CMakeFiles\LClassMetodyAbstrakcyjne.dir\src\LClassMetodyAbstrakcyjne.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassMetodyAbstrakcyjne.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj -MF CMakeFiles\LClassMetodyAbstrakcyjne.dir\src\LClassMetodyAbstrakcyjne.cc.obj.d -o CMakeFiles\LClassMetodyAbstrakcyjne.dir\src\LClassMetodyAbstrakcyjne.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassMetodyAbstrakcyjne.cc"
 
 CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassMetodyAbstrakcyjne.cc" > CMakeFiles\LClassMetodyAbstrakcyjne.dir\src\LClassMetodyAbstrakcyjne.cc.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassMetodyAbstrakcyjne.cc" > CMakeFiles\LClassMetodyAbstrakcyjne.dir\src\LClassMetodyAbstrakcyjne.cc.i
 
 CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassMetodyAbstrakcyjne.cc" -o CMakeFiles\LClassMetodyAbstrakcyjne.dir\src\LClassMetodyAbstrakcyjne.cc.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassMetodyAbstrakcyjne.cc" -o CMakeFiles\LClassMetodyAbstrakcyjne.dir\src\LClassMetodyAbstrakcyjne.cc.s
 
 # Object files for target LClassMetodyAbstrakcyjne
 LClassMetodyAbstrakcyjne_OBJECTS = \
@@ -95,7 +95,7 @@ LClassMetodyAbstrakcyjne.exe: CMakeFiles/LClassMetodyAbstrakcyjne.dir/build.make
 LClassMetodyAbstrakcyjne.exe: CMakeFiles/LClassMetodyAbstrakcyjne.dir/linkLibs.rsp
 LClassMetodyAbstrakcyjne.exe: CMakeFiles/LClassMetodyAbstrakcyjne.dir/objects1
 LClassMetodyAbstrakcyjne.exe: CMakeFiles/LClassMetodyAbstrakcyjne.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassMetodyAbstrakcyjne.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassMetodyAbstrakcyjne.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LClassMetodyAbstrakcyjne.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/LClassMetodyAbstrakcyjne.dir/clean:
 .PHONY : CMakeFiles/LClassMetodyAbstrakcyjne.dir/clean
 
 CMakeFiles/LClassMetodyAbstrakcyjne.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\LClassMetodyAbstrakcyjne.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\LClassMetodyAbstrakcyjne.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/LClassMetodyAbstrakcyjne.dir/depend
 

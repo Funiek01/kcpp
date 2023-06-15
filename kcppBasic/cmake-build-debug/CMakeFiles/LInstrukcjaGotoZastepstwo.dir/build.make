@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LInstrukcjaGotoZastepstwo.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/LInstrukcjaGotoZastepstwo.dir/flags.make
 
 CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.obj: CMakeFiles/LInstrukcjaGotoZastepstwo.dir/flags.make
 CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.obj: CMakeFiles/LInstrukcjaGotoZastepstwo.dir/includes_CXX.rsp
-CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppBasic/src/LInstrukcjaGotoZastepstwo.cc
+CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppBasic/src/LInstrukcjaGotoZastepstwo.cc
 CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.obj: CMakeFiles/LInstrukcjaGotoZastepstwo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.obj -MF CMakeFiles\LInstrukcjaGotoZastepstwo.dir\src\LInstrukcjaGotoZastepstwo.cc.obj.d -o CMakeFiles\LInstrukcjaGotoZastepstwo.dir\src\LInstrukcjaGotoZastepstwo.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LInstrukcjaGotoZastepstwo.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.obj -MF CMakeFiles\LInstrukcjaGotoZastepstwo.dir\src\LInstrukcjaGotoZastepstwo.cc.obj.d -o CMakeFiles\LInstrukcjaGotoZastepstwo.dir\src\LInstrukcjaGotoZastepstwo.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LInstrukcjaGotoZastepstwo.cc"
 
 CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LInstrukcjaGotoZastepstwo.cc" > CMakeFiles\LInstrukcjaGotoZastepstwo.dir\src\LInstrukcjaGotoZastepstwo.cc.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LInstrukcjaGotoZastepstwo.cc" > CMakeFiles\LInstrukcjaGotoZastepstwo.dir\src\LInstrukcjaGotoZastepstwo.cc.i
 
 CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LInstrukcjaGotoZastepstwo.dir/src/LInstrukcjaGotoZastepstwo.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LInstrukcjaGotoZastepstwo.cc" -o CMakeFiles\LInstrukcjaGotoZastepstwo.dir\src\LInstrukcjaGotoZastepstwo.cc.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LInstrukcjaGotoZastepstwo.cc" -o CMakeFiles\LInstrukcjaGotoZastepstwo.dir\src\LInstrukcjaGotoZastepstwo.cc.s
 
 # Object files for target LInstrukcjaGotoZastepstwo
 LInstrukcjaGotoZastepstwo_OBJECTS = \
@@ -95,7 +95,7 @@ LInstrukcjaGotoZastepstwo.exe: CMakeFiles/LInstrukcjaGotoZastepstwo.dir/build.ma
 LInstrukcjaGotoZastepstwo.exe: CMakeFiles/LInstrukcjaGotoZastepstwo.dir/linkLibs.rsp
 LInstrukcjaGotoZastepstwo.exe: CMakeFiles/LInstrukcjaGotoZastepstwo.dir/objects1
 LInstrukcjaGotoZastepstwo.exe: CMakeFiles/LInstrukcjaGotoZastepstwo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LInstrukcjaGotoZastepstwo.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LInstrukcjaGotoZastepstwo.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LInstrukcjaGotoZastepstwo.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/LInstrukcjaGotoZastepstwo.dir/clean:
 .PHONY : CMakeFiles/LInstrukcjaGotoZastepstwo.dir/clean
 
 CMakeFiles/LInstrukcjaGotoZastepstwo.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\LInstrukcjaGotoZastepstwo.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\LInstrukcjaGotoZastepstwo.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/LInstrukcjaGotoZastepstwo.dir/depend
 

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LArytmetykaWskaznikowZmienne.cc" "CMakeFiles/LArytmetykaWskaznikowZmienne.dir/src/LArytmetykaWskaznikowZmienne.cc.obj" "gcc" "CMakeFiles/LArytmetykaWskaznikowZmienne.dir/src/LArytmetykaWskaznikowZmienne.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LArytmetykaWskaznikowZmienne.cc" "CMakeFiles/LArytmetykaWskaznikowZmienne.dir/src/LArytmetykaWskaznikowZmienne.cc.obj" "gcc" "CMakeFiles/LArytmetykaWskaznikowZmienne.dir/src/LArytmetykaWskaznikowZmienne.cc.obj.d"
   )
 
 # Targets to which this target links.

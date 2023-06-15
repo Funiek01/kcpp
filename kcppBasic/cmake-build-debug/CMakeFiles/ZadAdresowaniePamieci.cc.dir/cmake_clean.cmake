@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.obj"
-  "CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.obj.d"
+  "CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.obj"
+  "CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.obj.d"
   "ZadAdresowaniePamieci.cc.exe"
   "ZadAdresowaniePamieci.cc.exe.manifest"
   "ZadAdresowaniePamieci.cc.pdb"

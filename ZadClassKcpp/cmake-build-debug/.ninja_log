@@ -1,0 +1,27 @@
+# ninja log v5
+6	404	7085574216887756	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	fb2ee71c5646587e
+8	417	7085576974006931	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+8	415	7085577198158663	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+1	299	7085583556132947	CMakeFiles/ZadClassKcpp.dir/src/main.cc.obj	90b680da98934e36
+2	297	7085584295448113	CMakeFiles/ZadClassKcpp.dir/src/main.cc.obj	90b680da98934e36
+9	413	7085584296615397	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+9	380	7085585564001546	CMakeFiles/ZadClassKcpp.dir/src/main.cc.obj	90b680da98934e36
+2	497	7085585565172139	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+2	301	7085638394964665	CMakeFiles/ZadClassKcpp.dir/src/main.cc.obj	90b680da98934e36
+8	439	7085638396350954	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+9	434	7085639930487836	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+2	461	7085641496446408	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+8	304	7085641679011911	CMakeFiles/ZadClassKcpp.dir/src/main.cc.obj	90b680da98934e36
+2	441	7085641680378263	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+2	424	7085641895003837	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+424	502	7085641895761842	ZadClassKcpp.exe	67ed60c172b3ce3
+9	307	7085647981028208	CMakeFiles/ZadClassKcpp.dir/src/main.cc.obj	90b680da98934e36
+2	442	7085647982383959	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+442	531	7085647983241654	ZadClassKcpp.exe	67ed60c172b3ce3
+2	422	7085649025195531	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+422	507	7085649026033393	ZadClassKcpp.exe	67ed60c172b3ce3
+1	427	7085649177626434	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+428	512	7085649178450763	ZadClassKcpp.exe	67ed60c172b3ce3
+9	295	7085654034971989	CMakeFiles/ZadClassKcpp.dir/src/main.cc.obj	90b680da98934e36
+2	434	7085654036373036	CMakeFiles/ZadClassKcpp.dir/src/ZadKcpp.cc.obj	f227717e276c9f22
+435	518	7085654037180838	ZadClassKcpp.exe	67ed60c172b3ce3

@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LClassSkladoweStatyczne.dir/depend.make
@@ -70,18 +70,18 @@ include CMakeFiles/LClassSkladoweStatyczne.dir/flags.make
 
 CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.obj: CMakeFiles/LClassSkladoweStatyczne.dir/flags.make
 CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.obj: CMakeFiles/LClassSkladoweStatyczne.dir/includes_CXX.rsp
-CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.obj: E:/Cpp\ Uczelnia/kcpp-main/kcppBasic/src/LClassSkladoweStatyczne.cc
+CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.obj: E:/Cpp\ Uczelnia/kcpp/kcppBasic/src/LClassSkladoweStatyczne.cc
 CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.obj: CMakeFiles/LClassSkladoweStatyczne.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.obj -MF CMakeFiles\LClassSkladoweStatyczne.dir\src\LClassSkladoweStatyczne.cc.obj.d -o CMakeFiles\LClassSkladoweStatyczne.dir\src\LClassSkladoweStatyczne.cc.obj -c "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassSkladoweStatyczne.cc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.obj -MF CMakeFiles\LClassSkladoweStatyczne.dir\src\LClassSkladoweStatyczne.cc.obj.d -o CMakeFiles\LClassSkladoweStatyczne.dir\src\LClassSkladoweStatyczne.cc.obj -c "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassSkladoweStatyczne.cc"
 
 CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassSkladoweStatyczne.cc" > CMakeFiles\LClassSkladoweStatyczne.dir\src\LClassSkladoweStatyczne.cc.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassSkladoweStatyczne.cc" > CMakeFiles\LClassSkladoweStatyczne.dir\src\LClassSkladoweStatyczne.cc.i
 
 CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LClassSkladoweStatyczne.dir/src/LClassSkladoweStatyczne.cc.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp-main\kcppBasic\src\LClassSkladoweStatyczne.cc" -o CMakeFiles\LClassSkladoweStatyczne.dir\src\LClassSkladoweStatyczne.cc.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\Cpp Uczelnia\kcpp\kcppBasic\src\LClassSkladoweStatyczne.cc" -o CMakeFiles\LClassSkladoweStatyczne.dir\src\LClassSkladoweStatyczne.cc.s
 
 # Object files for target LClassSkladoweStatyczne
 LClassSkladoweStatyczne_OBJECTS = \
@@ -95,7 +95,7 @@ LClassSkladoweStatyczne.exe: CMakeFiles/LClassSkladoweStatyczne.dir/build.make
 LClassSkladoweStatyczne.exe: CMakeFiles/LClassSkladoweStatyczne.dir/linkLibs.rsp
 LClassSkladoweStatyczne.exe: CMakeFiles/LClassSkladoweStatyczne.dir/objects1
 LClassSkladoweStatyczne.exe: CMakeFiles/LClassSkladoweStatyczne.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassSkladoweStatyczne.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LClassSkladoweStatyczne.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LClassSkladoweStatyczne.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -107,6 +107,6 @@ CMakeFiles/LClassSkladoweStatyczne.dir/clean:
 .PHONY : CMakeFiles/LClassSkladoweStatyczne.dir/clean
 
 CMakeFiles/LClassSkladoweStatyczne.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles\LClassSkladoweStatyczne.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles\LClassSkladoweStatyczne.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/LClassSkladoweStatyczne.dir/depend
 

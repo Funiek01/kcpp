@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc" "CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj" "gcc" "CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc" "CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj" "gcc" "CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj.d"
   )
 
 # Targets to which this target links.

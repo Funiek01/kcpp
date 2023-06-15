@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc" "CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj" "gcc" "CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppZadania/ZadUnia.cc" "CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj" "gcc" "CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj.d"
   )
 
 # Targets to which this target links.

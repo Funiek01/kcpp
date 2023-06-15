@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.obj"
-  "CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.obj.d"
+  "CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.obj"
+  "CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.obj.d"
   "ZadClass.cc.exe"
   "ZadClass.cc.exe.manifest"
   "ZadClass.cc.pdb"

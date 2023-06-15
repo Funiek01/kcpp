@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.obj"
-  "CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.obj.d"
+  "CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.obj"
+  "CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.obj.d"
   "LStringStream.cc.exe"
   "LStringStream.cc.exe.manifest"
   "LStringStream.cc.pdb"

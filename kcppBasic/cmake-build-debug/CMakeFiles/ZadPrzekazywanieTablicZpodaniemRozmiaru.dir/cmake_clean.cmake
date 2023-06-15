@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj"
-  "CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj.d"
+  "CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj"
+  "CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj.d"
   "ZadPrzekazywanieTablicZpodaniemRozmiaru.exe"
   "ZadPrzekazywanieTablicZpodaniemRozmiaru.exe.manifest"
   "ZadPrzekazywanieTablicZpodaniemRozmiaru.pdb"

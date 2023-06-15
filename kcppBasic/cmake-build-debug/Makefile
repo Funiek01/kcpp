@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic"
+CMAKE_SOURCE_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug"
+CMAKE_BINARY_DIR = "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp-main\kcppBasic\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Cpp Uczelnia\kcpp\kcppBasic\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -1701,581 +1701,581 @@ ZadMetodyAbstrakcyjne.cc/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMetodyAbstrakcyjne.cc.dir\build.make CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/build
 .PHONY : ZadMetodyAbstrakcyjne.cc/fast
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LBitoweOperatoryLogiczneSingleVariable.cc.dir\build.make CMakeFiles/LBitoweOperatoryLogiczneSingleVariable.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\build.make CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\build.make CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\build.make CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\build.make CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\build.make CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\build.make CMakeFiles/LManipulacjaStrumieniemCout.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStringStream.cc.dir\build.make CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStringStream.cc.dir\build.make CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStringStream.cc.dir\build.make CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStringStream.cc.dir\build.make CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStringStream.cc.dir\build.make CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LStringStream.cc.dir\build.make CMakeFiles/LStringStream.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadAdresowaniePamieci.cc.dir\build.make CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadAdresowaniePamieci.cc.dir\build.make CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadAdresowaniePamieci.cc.dir\build.make CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadAdresowaniePamieci.cc.dir\build.make CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadAdresowaniePamieci.cc.dir\build.make CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadAdresowaniePamieci.cc.dir\build.make CMakeFiles/ZadAdresowaniePamieci.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\build.make CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\build.make CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\build.make CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\build.make CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\build.make CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadArytmetykaWskaznikow.cc.dir\build.make CMakeFiles/ZadArytmetykaWskaznikow.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCandCPP.cc.dir\build.make CMakeFiles/ZadCandCPP.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCandCPP.cc.dir\build.make CMakeFiles/ZadCandCPP.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCandCPP.cc.dir\build.make CMakeFiles/ZadCandCPP.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCandCPP.cc.dir\build.make CMakeFiles/ZadCandCPP.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCandCPP.cc.dir\build.make CMakeFiles/ZadCandCPP.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCandCPP.cc.dir\build.make CMakeFiles/ZadCandCPP.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCinCoutFile.cc.dir\build.make CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCinCoutFile.cc.dir\build.make CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCinCoutFile.cc.dir\build.make CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCinCoutFile.cc.dir\build.make CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCinCoutFile.cc.dir\build.make CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadCinCoutFile.cc.dir\build.make CMakeFiles/ZadCinCoutFile.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadClass.cc.dir\build.make CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadClass.cc.dir\build.make CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadClass.cc.dir\build.make CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadClass.cc.dir\build.make CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadClass.cc.dir\build.make CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadClass.cc.dir\build.make CMakeFiles/ZadClass.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadIq.cc.dir\build.make CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadIq.cc.dir\build.make CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadIq.cc.dir\build.make CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadIq.cc.dir\build.make CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadIq.cc.dir\build.make CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadIq.cc.dir\build.make CMakeFiles/ZadIq.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadKlasaKonstruktor.cc.dir\build.make CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadKlasaKonstruktor.cc.dir\build.make CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadKlasaKonstruktor.cc.dir\build.make CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadKlasaKonstruktor.cc.dir\build.make CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadKlasaKonstruktor.cc.dir\build.make CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadKlasaKonstruktor.cc.dir\build.make CMakeFiles/ZadKlasaKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMainExample.dir\build.make CMakeFiles/ZadMainExample.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMainExample.dir\build.make CMakeFiles/ZadMainExample.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMainExample.dir\build.make CMakeFiles/ZadMainExample.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMainExample.dir\build.make CMakeFiles/ZadMainExample.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMainExample.dir\build.make CMakeFiles/ZadMainExample.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMainExample.dir\build.make CMakeFiles/ZadMainExample.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMetodyAbstrakcyjne.cc.dir\build.make CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMetodyAbstrakcyjne.cc.dir\build.make CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMetodyAbstrakcyjne.cc.dir\build.make CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMetodyAbstrakcyjne.cc.dir\build.make CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMetodyAbstrakcyjne.cc.dir\build.make CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadMetodyAbstrakcyjne.cc.dir\build.make CMakeFiles/ZadMetodyAbstrakcyjne.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadOperatoryPrzypisania.cc.dir\build.make CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadOperatoryPrzypisania.cc.dir\build.make CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadOperatoryPrzypisania.cc.dir\build.make CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadOperatoryPrzypisania.cc.dir\build.make CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadOperatoryPrzypisania.cc.dir\build.make CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadOperatoryPrzypisania.cc.dir\build.make CMakeFiles/ZadOperatoryPrzypisania.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzysta.cc.dir\build.make CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzysta.cc.dir\build.make CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzysta.cc.dir\build.make CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzysta.cc.dir\build.make CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzysta.cc.dir\build.make CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzysta.cc.dir\build.make CMakeFiles/ZadParzysta.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzystaCase.cc.dir\build.make CMakeFiles/ZadParzystaCase.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzystaCase.cc.dir\build.make CMakeFiles/ZadParzystaCase.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzystaCase.cc.dir\build.make CMakeFiles/ZadParzystaCase.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzystaCase.cc.dir\build.make CMakeFiles/ZadParzystaCase.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzystaCase.cc.dir\build.make CMakeFiles/ZadParzystaCase.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadParzystaCase.cc.dir\build.make CMakeFiles/ZadParzystaCase.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPetle.cc.dir\build.make CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPetle.cc.dir\build.make CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPetle.cc.dir\build.make CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPetle.cc.dir\build.make CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPetle.cc.dir\build.make CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPetle.cc.dir\build.make CMakeFiles/ZadPetle.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPreprocesor.cc.dir\build.make CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPreprocesor.cc.dir\build.make CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPreprocesor.cc.dir\build.make CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPreprocesor.cc.dir\build.make CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPreprocesor.cc.dir\build.make CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPreprocesor.cc.dir\build.make CMakeFiles/ZadPreprocesor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicKopia.cc.dir\build.make CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicKopia.cc.dir\build.make CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicKopia.cc.dir\build.make CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicKopia.cc.dir\build.make CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicKopia.cc.dir\build.make CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicKopia.cc.dir\build.make CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\build.make CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\build.make CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\build.make CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\build.make CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\build.make CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadPrzekazywanieTablicZpodaniemRozmiaru.dir\build.make CMakeFiles/ZadPrzekazywanieTablicZpodaniemRozmiaru.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStruct.cc.dir\build.make CMakeFiles/ZadStruct.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStruct.cc.dir\build.make CMakeFiles/ZadStruct.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStruct.cc.dir\build.make CMakeFiles/ZadStruct.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStruct.cc.dir\build.make CMakeFiles/ZadStruct.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStruct.cc.dir\build.make CMakeFiles/ZadStruct.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStruct.cc.dir\build.make CMakeFiles/ZadStruct.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStructKonstruktor.cc.dir\build.make CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStructKonstruktor.cc.dir\build.make CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStructKonstruktor.cc.dir\build.make CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStructKonstruktor.cc.dir\build.make CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStructKonstruktor.cc.dir\build.make CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadStructKonstruktor.cc.dir\build.make CMakeFiles/ZadStructKonstruktor.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadSwitch.cc.dir\build.make CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadSwitch.cc.dir\build.make CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadSwitch.cc.dir\build.make CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadSwitch.cc.dir\build.make CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadSwitch.cc.dir\build.make CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadSwitch.cc.dir\build.make CMakeFiles/ZadSwitch.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadUnia.cc.dir\build.make CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadUnia.cc.dir\build.make CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadUnia.cc.dir\build.make CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadUnia.cc.dir\build.make CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadUnia.cc.dir\build.make CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadUnia.cc.dir\build.make CMakeFiles/ZadUnia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.cc.s
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.obj: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.obj: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.obj
 
 # target to build an object file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadZwracanie.dir\build.make CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.obj
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.obj
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadZwracanie.dir\build.make CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.obj
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.obj
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.i: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.i: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.i
 
 # target to preprocess a source file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadZwracanie.dir\build.make CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.i
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.i
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadZwracanie.dir\build.make CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.i
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.i
 
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.s: E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.s: E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.s
 
 # target to generate assembly for a file
-E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadZwracanie.dir\build.make CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.s
-.PHONY : E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.cc.s
+E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ZadZwracanie.dir\build.make CMakeFiles/ZadZwracanie.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.s
+.PHONY : E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.cc.s
 
 src/LArgumentyDomyslne.obj: src/LArgumentyDomyslne.cc.obj
 .PHONY : src/LArgumentyDomyslne.obj
@@ -4759,78 +4759,78 @@ help:
 	@echo ... noTemplateFunction
 	@echo ... templateClass
 	@echo ... templateFunction
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LManipulacjaStrumieniemCout.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/LStringStream.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadAdresowaniePamieci.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadArytmetykaWskaznikow.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCandCPP.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadCinCoutFile.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadClass.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadIq.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadKlasaKonstruktor.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMainExample.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadMetodyAbstrakcyjne.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadOperatoryPrzypisania.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzysta.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadParzystaCase.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPetle.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPreprocesor.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStruct.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadStructKonstruktor.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadSwitch.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadUnia.s
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.obj
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.i
-	@echo ... E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadZwracanie.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/LBitoweOperatoryLogiczneSingleVariable.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/LManipulacjaStrumieniemCout.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/LStringStream.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadAdresowaniePamieci.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadArytmetykaWskaznikow.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCandCPP.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadCinCoutFile.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadClass.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadIq.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadKlasaKonstruktor.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMainExample.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadMetodyAbstrakcyjne.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadOperatoryPrzypisania.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzysta.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadParzystaCase.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPetle.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPreprocesor.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicZpodaniemRozmiaru.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStruct.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadStructKonstruktor.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadSwitch.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadUnia.s
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.obj
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.i
+	@echo ... E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadZwracanie.s
 	@echo ... src/LArgumentyDomyslne.obj
 	@echo ... src/LArgumentyDomyslne.i
 	@echo ... src/LArgumentyDomyslne.s

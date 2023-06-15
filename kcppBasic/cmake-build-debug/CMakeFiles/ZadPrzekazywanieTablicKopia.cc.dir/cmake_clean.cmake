@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj"
-  "CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp-main/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj.d"
+  "CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj"
+  "CMakeFiles/ZadPrzekazywanieTablicKopia.cc.dir/E_/Cpp_Uczelnia/kcpp/kcppZadania/ZadPrzekazywanieTablicKopia.cc.obj.d"
   "ZadPrzekazywanieTablicKopia.cc.exe"
   "ZadPrzekazywanieTablicKopia.cc.exe.manifest"
   "ZadPrzekazywanieTablicKopia.cc.pdb"

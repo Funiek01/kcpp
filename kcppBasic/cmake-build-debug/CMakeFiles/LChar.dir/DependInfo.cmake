@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LChar.cc" "CMakeFiles/LChar.dir/src/LChar.cc.obj" "gcc" "CMakeFiles/LChar.dir/src/LChar.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LChar.cc" "CMakeFiles/LChar.dir/src/LChar.cc.obj" "gcc" "CMakeFiles/LChar.dir/src/LChar.cc.obj.d"
   )
 
 # Targets to which this target links.

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LClassMetodyAbstrakcyjne.cc" "CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj" "gcc" "CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LClassMetodyAbstrakcyjne.cc" "CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj" "gcc" "CMakeFiles/LClassMetodyAbstrakcyjne.dir/src/LClassMetodyAbstrakcyjne.cc.obj.d"
   )
 
 # Targets to which this target links.

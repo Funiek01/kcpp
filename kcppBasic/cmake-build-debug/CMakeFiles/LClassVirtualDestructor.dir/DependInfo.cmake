@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/Cpp Uczelnia/kcpp-main/kcppBasic/src/LClassVirtualDestructor.cc" "CMakeFiles/LClassVirtualDestructor.dir/src/LClassVirtualDestructor.cc.obj" "gcc" "CMakeFiles/LClassVirtualDestructor.dir/src/LClassVirtualDestructor.cc.obj.d"
+  "E:/Cpp Uczelnia/kcpp/kcppBasic/src/LClassVirtualDestructor.cc" "CMakeFiles/LClassVirtualDestructor.dir/src/LClassVirtualDestructor.cc.obj" "gcc" "CMakeFiles/LClassVirtualDestructor.dir/src/LClassVirtualDestructor.cc.obj.d"
   )
 
 # Targets to which this target links.
