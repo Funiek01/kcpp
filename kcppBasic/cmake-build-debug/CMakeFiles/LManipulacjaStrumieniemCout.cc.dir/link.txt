@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\LManipulacjaStrumieniemCout.cc.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\LManipulacjaStrumieniemCout.cc.dir/objects.a @CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\objects1
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE  -Wall -O0 -Wno-unused-variable -std=c++14 -g -Wl,--whole-archive CMakeFiles\LManipulacjaStrumieniemCout.cc.dir/objects.a -Wl,--no-whole-archive -o LManipulacjaStrumieniemCout.cc.exe -Wl,--out-implib,libLManipulacjaStrumieniemCout.cc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LManipulacjaStrumieniemCout.cc.dir\linkLibs.rsp

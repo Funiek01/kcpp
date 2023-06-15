@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\LManipulatory.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\LManipulatory.dir/objects.a @CMakeFiles\LManipulatory.dir\objects1
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE  -Wall -O0 -Wno-unused-variable -std=c++14 -g -Wl,--whole-archive CMakeFiles\LManipulatory.dir/objects.a -Wl,--no-whole-archive -o LManipulatory.exe -Wl,--out-implib,libLManipulatory.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LManipulatory.dir\linkLibs.rsp

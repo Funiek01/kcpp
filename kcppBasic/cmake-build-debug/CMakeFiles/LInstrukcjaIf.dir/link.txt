@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\LInstrukcjaIf.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\LInstrukcjaIf.dir/objects.a @CMakeFiles\LInstrukcjaIf.dir\objects1
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE  -Wall -O0 -Wno-unused-variable -std=c++14 -g -Wl,--whole-archive CMakeFiles\LInstrukcjaIf.dir/objects.a -Wl,--no-whole-archive -o LInstrukcjaIf.exe -Wl,--out-implib,libLInstrukcjaIf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LInstrukcjaIf.dir\linkLibs.rsp
